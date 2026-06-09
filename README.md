@@ -22,6 +22,19 @@ Branded, AI-generated video intros for Profullstack and related projects, plus t
   - `input.tsv` — tab-separated start/end/text
   - `input.txt` — plain text transcript
 
+## Build
+
+`build.sh` regenerates the media artifacts from their sources (needs `ffmpeg`,
+`ffprobe`, and `whisper`):
+
+```bash
+./build.sh intro       # render intro.{mp4,webm,wav,mp3} from the logo clip
+./build.sh transcribe  # extract input.wav + write transcript/{json,srt,tsv,txt,vtt}
+./build.sh all         # both (default)
+```
+
+Override defaults via env vars, e.g. `INPUT_SRC=talk.webm WHISPER_MODEL=medium ./build.sh transcribe`.
+
 ## Note on media files
 
 The large media files (`*.mp4`, `*.webm`, `*.wav`, `*.mp3`, …) are **gitignored**
