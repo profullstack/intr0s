@@ -1,14 +1,4 @@
 # Large media source/output files (exceed GitHub's 100MB limit)
-*.mp4
-*.webm
-*.wav
-*.mp3
-*.mov
-*.mkv
-*.m4a
-*.aac
-*.flac
-
 # OS / editor cruft
 .DS_Store
 Thumbs.db
