@@ -1,0 +1,22 @@
+# Large media source/output files (exceed GitHub's 100MB limit)
+*.mp4
+*.webm
+*.wav
+*.mp3
+*.mov
+*.mkv
+*.m4a
+*.aac
+*.flac
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (in case tooling is added later)
+node_modules/
+.env
+.env.local

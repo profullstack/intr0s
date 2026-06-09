@@ -1,0 +1,2540 @@
+1
+00:00:00,000 --> 00:00:05,280
+Choosing the right SaaS idea can be the difference between making $10,000, $100,000, or even
+
+2
+00:00:05,280 --> 00:00:08,320
+a million dollars a month and making nothing at all.
+
+3
+00:00:08,320 --> 00:00:11,960
+But I'm not here to give you another list of hypothetical SaaS ideas, because that's
+
+4
+00:00:11,960 --> 00:00:13,240
+not what you need.
+
+5
+00:00:13,240 --> 00:00:18,200
+What you really need is to know how successful founders actually found their idea and how
+
+6
+00:00:18,200 --> 00:00:22,240
+you can steal their tactics to find your own idea today.
+
+7
+00:00:22,240 --> 00:00:23,240
+So here's what I did.
+
+8
+00:00:23,240 --> 00:00:28,280
+I surveyed over 200 SaaS founders, making at least $1,000 a month, some making well
+
+9
+00:00:28,280 --> 00:00:34,200
+over $100,000 a month to uncover the exact methods they used to find their winning ideas.
+
+10
+00:00:34,200 --> 00:00:36,940
+This is something no one else on YouTube is doing.
+
+11
+00:00:36,940 --> 00:00:41,680
+People are talking out of their opinion and limited experience, but on this channel, I
+
+12
+00:00:41,680 --> 00:00:45,640
+like to get some data and provide you with some insights that you can't get anywhere
+
+13
+00:00:45,640 --> 00:00:46,640
+else.
+
+14
+00:00:46,640 --> 00:00:50,160
+So in this video, I'm going to break down the top eight ways these founders discovered
+
+15
+00:00:50,160 --> 00:00:54,080
+profitable SaaS opportunities, and I'll give you examples for each.
+
+16
+00:00:54,080 --> 00:00:58,840
+I've seen these methods work in my own companies and across the hundreds of startups I'm invested
+
+17
+00:00:58,840 --> 00:01:04,040
+in, as well as the thousands of SaaS companies that I've seen started in the broader tiny
+
+18
+00:01:04,040 --> 00:01:07,480
+seed microconf and startups for the rest of us ecosystem.
+
+19
+00:01:07,480 --> 00:01:10,440
+There's a lot to cover in this video, so let's dive in.
+
+20
+00:01:10,440 --> 00:01:15,680
+Method number one was used by a shocking 48% of founders that we surveyed.
+
+21
+00:01:15,680 --> 00:01:18,120
+And honestly, didn't surprise me at all.
+
+22
+00:01:18,120 --> 00:01:23,220
+For years, I've said, don't tell me your idea, tell me what problem it solves.
+
+23
+00:01:23,220 --> 00:01:27,820
+And for almost half of the successful founders we surveyed, that problem showed up right
+
+24
+00:01:27,820 --> 00:01:30,960
+where they were already spending 40 hours a week.
+
+25
+00:01:30,960 --> 00:01:34,340
+Method number one is finding a problem at your day job.
+
+26
+00:01:34,340 --> 00:01:38,220
+So this is where you spot a problem while working your regular job, either as a developer
+
+27
+00:01:38,220 --> 00:01:43,720
+frustrated by bad tools or as a subject matter expert who knows your industry's pain points.
+
+28
+00:01:43,720 --> 00:01:48,260
+You already have context, you have credibility and access to potential customers.
+
+29
+00:01:48,260 --> 00:01:53,100
+One example of this is Alex Yumashev, the founder of JITbit, which is a help desk ticketing
+
+30
+00:01:53,300 --> 00:01:58,260
+Alex told us, while working my full-time job, I realized that many existing tech support
+
+31
+00:01:58,260 --> 00:02:03,460
+and customer support apps were missing the boring features that real teams actually need.
+
+32
+00:02:03,460 --> 00:02:09,300
+Things like SSO, active directory integration, user provisioning, on-prem, self-hosted deployment
+
+33
+00:02:09,300 --> 00:02:11,980
+for Windows, and many other features.
+
+34
+00:02:11,980 --> 00:02:14,380
+The sleek modern tools had none of that.
+
+35
+00:02:14,380 --> 00:02:18,540
+And the ones that did have the boring features look like they were straight out of the 90s.
+
+36
+00:02:18,540 --> 00:02:23,660
+Buttered UIs, endless check boxes, painfully complicated setup flows.
+
+37
+00:02:23,660 --> 00:02:27,500
+And while the market was very saturated, I took that as a good sign.
+
+38
+00:02:27,500 --> 00:02:29,260
+The market was there.
+
+39
+00:02:29,260 --> 00:02:33,880
+Attacking a big competitor can be a benefit on one hand, stealing cool marketing ideas
+
+40
+00:02:33,880 --> 00:02:36,140
+from the smaller companies on the other.
+
+41
+00:02:36,140 --> 00:02:39,800
+Maybe you've spent years working in an industry and you're a subject matter expert.
+
+42
+00:02:39,800 --> 00:02:44,140
+You know all the headaches inside and out, like Zach from Upstream Edge.
+
+43
+00:02:44,140 --> 00:02:50,300
+Zach told us, I provide a desktop application for forecasting and valuing oil and gas wells
+
+44
+00:02:50,300 --> 00:02:54,180
+that include sophisticated engineering and financial analysis tools.
+
+45
+00:02:54,180 --> 00:02:59,180
+100 times faster speed and higher level features compared to alternatives are what differentiate
+
+46
+00:02:59,180 --> 00:03:00,180
+my product.
+
+47
+00:03:00,180 --> 00:03:04,700
+I worked in the oil and gas industry as a petroleum engineer for a decade, and my frustration
+
+48
+00:03:04,700 --> 00:03:10,260
+with the current tools led me to learn how to build new tools to solve our daily problems.
+
+49
+00:03:10,260 --> 00:03:14,660
+I had a burning desire to see better software, and I decided to make the product I thought
+
+50
+00:03:14,660 --> 00:03:15,900
+the industry needed.
+
+51
+00:03:15,900 --> 00:03:18,860
+Then there's Lee Dido, the founder of Didomite.
+
+52
+00:03:18,860 --> 00:03:23,220
+Lee told us, it's the fastest way to get looping video on a public screen.
+
+53
+00:03:23,220 --> 00:03:28,460
+I started working at a company called BrightSign in 2012, who's the market leader in digital
+
+54
+00:03:28,460 --> 00:03:30,380
+signage media players.
+
+55
+00:03:30,380 --> 00:03:34,540
+It's a very hardware-focused industry, and I repeatedly kept seeing the same problems
+
+56
+00:03:34,540 --> 00:03:37,900
+over and over when it came to operational software.
+
+57
+00:03:37,900 --> 00:03:41,860
+Because nobody was thinking about user experience, and I kept socking away my ideas until one
+
+58
+00:03:41,860 --> 00:03:44,900
+day, 10 years later, I thought it was time to jump.
+
+59
+00:03:44,900 --> 00:03:47,260
+Consider jobs you've had, even a long time ago.
+
+60
+00:03:47,260 --> 00:03:51,300
+The problem I just mentioned was something Lee experienced a decade earlier.
+
+61
+00:03:51,300 --> 00:03:56,140
+Think about those tedious, repetitive tasks that are currently being human-automated,
+
+62
+00:03:56,140 --> 00:03:58,300
+and that could be turned into software.
+
+63
+00:03:58,300 --> 00:04:02,660
+The next example is similar in that it's automating a task that this consultant did
+
+64
+00:04:02,660 --> 00:04:03,660
+for their clients.
+
+65
+00:04:03,700 --> 00:04:09,140
+Ahmed Babakir is the co-founder of Blue Gamma, which is interest rate forecasts for finance
+
+66
+00:04:09,140 --> 00:04:10,140
+teams.
+
+67
+00:04:10,140 --> 00:04:14,260
+Ahmed told us, my co-founder and I used to work at a consultancy where clients would
+
+68
+00:04:14,260 --> 00:04:18,540
+ask us for interest rate data, sometimes multiple times a day.
+
+69
+00:04:18,540 --> 00:04:23,820
+As a recent graduate, my job was to pull the data, format it, and send it over in a spreadsheet
+
+70
+00:04:23,820 --> 00:04:24,820
+every time.
+
+71
+00:04:24,820 --> 00:04:28,900
+After leaving the company and learning about startups a year later, we realized it was
+
+72
+00:04:28,900 --> 00:04:32,260
+a repetitive problem that software could solve very easily.
+
+73
+00:04:32,260 --> 00:04:36,060
+Or maybe at your day job, you see a colleague doing repetitive work that you know could
+
+74
+00:04:36,060 --> 00:04:40,380
+be streamlined, like Steve from LUTI, formerly Metro Retro.
+
+75
+00:04:40,380 --> 00:04:44,980
+LUTI is collaboration software focused on development teams, helping them with retrospectives,
+
+76
+00:04:44,980 --> 00:04:47,140
+refinement, planning, and so on.
+
+77
+00:04:47,140 --> 00:04:52,020
+Steve told us, I created an early prototype of a canvas-based retro tool as part of a
+
+78
+00:04:52,020 --> 00:04:53,940
+hackathon at my last real job.
+
+79
+00:04:53,940 --> 00:04:58,380
+The idea came from watching the PM write up the notes after every meeting by hand.
+
+80
+00:04:58,380 --> 00:05:03,020
+So now let's take a step back and look at what makes this first method of finding a
+
+81
+00:05:03,020 --> 00:05:04,860
+problem at your day job work.
+
+82
+00:05:04,860 --> 00:05:08,340
+The first is, you already have deep context around the problem.
+
+83
+00:05:08,340 --> 00:05:09,340
+You've lived it.
+
+84
+00:05:09,340 --> 00:05:10,500
+You know the workarounds.
+
+85
+00:05:10,500 --> 00:05:13,600
+You understand why existing solutions fall short.
+
+86
+00:05:13,600 --> 00:05:17,740
+The second is you have built-in access to potential customers and beta testers.
+
+87
+00:05:17,740 --> 00:05:21,020
+These are your colleagues, your industry contacts, and so on.
+
+88
+00:05:21,020 --> 00:05:23,940
+The third is that you understand the buying process.
+
+89
+00:05:23,940 --> 00:05:28,900
+You know who signs off on purchases, what budget cycles look like, what objections come
+
+90
+00:05:28,900 --> 00:05:29,900
+up.
+
+91
+00:05:29,900 --> 00:05:33,980
+And the fourth is that you can potentially validate the idea while still employed, reducing
+
+92
+00:05:33,980 --> 00:05:34,980
+your risk.
+
+93
+00:05:34,980 --> 00:05:37,540
+But there are three things to watch out for with this approach.
+
+94
+00:05:37,540 --> 00:05:42,100
+The first is make sure the problem exists beyond your specific company.
+
+95
+00:05:42,100 --> 00:05:45,080
+Your employer might just be uniquely dysfunctional.
+
+96
+00:05:45,080 --> 00:05:48,260
+So validate your idea outside of your little bubble.
+
+97
+00:05:48,260 --> 00:05:51,580
+The second is check your employment agreement for IP clauses.
+
+98
+00:05:51,580 --> 00:05:55,180
+Some companies claim ownership of anything you build while you're employed.
+
+99
+00:05:55,180 --> 00:06:00,340
+And the third is be careful not to use proprietary information or customer data from your employer
+
+100
+00:06:00,340 --> 00:06:01,660
+to build your product.
+
+101
+00:06:01,660 --> 00:06:05,700
+I also wouldn't use any of my employer's hardware like a laptop.
+
+102
+00:06:05,700 --> 00:06:07,980
+I would have a personal laptop that I worked on.
+
+103
+00:06:07,980 --> 00:06:11,840
+And as I mentioned, I would check that IP clause and be really clean about it.
+
+104
+00:06:11,840 --> 00:06:17,060
+So with this method, I'd be asking myself three questions to try to get my juices flowing.
+
+105
+00:06:17,060 --> 00:06:22,600
+The first is what tools do I use on a daily basis that frustrate me or my coworkers?
+
+106
+00:06:22,600 --> 00:06:28,560
+The second is what manual process or processes exist today that I think should be automated
+
+107
+00:06:28,560 --> 00:06:29,640
+by software?
+
+108
+00:06:29,640 --> 00:06:35,100
+And the third is, are the incumbent tools in this industry actually old and clunky and
+
+109
+00:06:35,100 --> 00:06:36,220
+not changing?
+
+110
+00:06:36,220 --> 00:06:39,220
+Or are they actually pretty good and I just don't like them?
+
+111
+00:06:39,220 --> 00:06:42,300
+So there were a lot of companies that used this first method.
+
+112
+00:06:42,300 --> 00:06:44,240
+As I said, it was almost 50%.
+
+113
+00:06:44,240 --> 00:06:46,580
+But I don't want to spend this whole video talking about it.
+
+114
+00:06:46,580 --> 00:06:52,360
+So I put together a completely free resource over at robwalling.com slash ideas.
+
+115
+00:06:52,360 --> 00:06:53,780
+I'll tell you more about that later.
+
+116
+00:06:53,780 --> 00:06:57,580
+But one thing I want you to notice is that all of these folks were solving problems that
+
+117
+00:06:57,580 --> 00:06:59,740
+people would be willing to pay for.
+
+118
+00:06:59,740 --> 00:07:03,860
+In the next category, the founders knew that there would be a customer ready to pay because
+
+119
+00:07:03,860 --> 00:07:07,320
+they copied an existing idea or an existing product.
+
+120
+00:07:07,320 --> 00:07:10,040
+This was about 10% of our respondents.
+
+121
+00:07:10,040 --> 00:07:14,420
+In some cases, founders saw how much their employer was spending on a solution and thought
+
+122
+00:07:14,420 --> 00:07:16,980
+I could do that cheaper or I could do that better.
+
+123
+00:07:16,980 --> 00:07:20,440
+Or you might notice a large space with a hated competitor.
+
+124
+00:07:20,440 --> 00:07:25,020
+While I didn't participate in this particular survey, I did exactly this when I was building
+
+125
+00:07:25,020 --> 00:07:26,020
+Drip.
+
+126
+00:07:26,020 --> 00:07:29,700
+And we did it by accident, if I'm being honest, we had built a little email capture widget
+
+127
+00:07:29,700 --> 00:07:34,120
+and the ability to send a sequences of emails to people that signed up.
+
+128
+00:07:34,120 --> 00:07:36,780
+What we quickly realized is there was market pull.
+
+129
+00:07:36,780 --> 00:07:41,800
+There were people talking about marketing automation and email automation features that
+
+130
+00:07:41,800 --> 00:07:45,580
+didn't exist in the less expensive email service providers.
+
+131
+00:07:45,580 --> 00:07:50,600
+And every tool that had these features was really expensive, had annual contracts, software
+
+132
+00:07:50,600 --> 00:07:54,820
+wasn't great, and they required you to talk to a salesperson.
+
+133
+00:07:54,820 --> 00:07:57,280
+So we started building some of those features.
+
+134
+00:07:57,280 --> 00:08:02,280
+And while we didn't copy any existing products, we did enter an existing category.
+
+135
+00:08:02,280 --> 00:08:07,040
+And there were already paradigms in place that we certainly slotted into, and it made
+
+136
+00:08:07,040 --> 00:08:10,140
+selling and marketing our tool a lot easier.
+
+137
+00:08:10,140 --> 00:08:15,580
+Because when people arrived at the homepage, drip.com, they could see, Oh, this is this
+
+138
+00:08:15,580 --> 00:08:16,740
+type of tool.
+
+139
+00:08:16,740 --> 00:08:17,800
+Why is it different?
+
+140
+00:08:17,800 --> 00:08:18,960
+And that's all I had to communicate.
+
+141
+00:08:18,960 --> 00:08:21,800
+I didn't have to communicate what we were doing and how novel we were.
+
+142
+00:08:21,800 --> 00:08:26,160
+I just had to say, we are either an email service provider or at some point we were
+
+143
+00:08:26,160 --> 00:08:30,960
+in email automation software and then we became lightweight marketing automation.
+
+144
+00:08:30,960 --> 00:08:36,700
+And then I just had to tell you why are we better or different than all the other incumbents.
+
+145
+00:08:36,700 --> 00:08:39,860
+And there were a lot of big clunky incumbents that people didn't like.
+
+146
+00:08:39,860 --> 00:08:43,780
+And that in addition to the fact that we executed really well, was the reason that drip grew
+
+147
+00:08:43,780 --> 00:08:48,860
+so quickly and resulted in a life-changing exit for me back in 2016.
+
+148
+00:08:48,860 --> 00:08:53,980
+Another example of using this approach comes from Tim Leland, the founder of t.ly.
+
+149
+00:08:53,980 --> 00:08:58,940
+t.ly is an all-in-one URL shortener and QR code platform.
+
+150
+00:08:58,940 --> 00:09:02,320
+It's built for marketers, developers, creators, and teams.
+
+151
+00:09:02,320 --> 00:09:06,420
+And Tim told us, I was working for a company on an online giving product, and we were
+
+152
+00:09:06,420 --> 00:09:09,360
+tasked to build a text to give feature.
+
+153
+00:09:09,360 --> 00:09:15,320
+To do this, we had to shorten the URLs since SMS messages are limited to 160 characters.
+
+154
+00:09:15,320 --> 00:09:19,660
+We looked at Bitly and saw it was thousands of dollars to use a custom domain to create
+
+155
+00:09:19,660 --> 00:09:20,660
+short links.
+
+156
+00:09:20,660 --> 00:09:24,940
+So to save money, I built a simple in-house URL shortener over the weekend that we could
+
+157
+00:09:24,940 --> 00:09:26,140
+host ourselves.
+
+158
+00:09:26,140 --> 00:09:29,980
+This got me thinking other companies may want a more affordable option, but they don't want
+
+159
+00:09:29,980 --> 00:09:31,700
+to build it in-house.
+
+160
+00:09:31,700 --> 00:09:34,620
+Another example of a founder who used this approach is Lillia Tobin.
+
+161
+00:09:34,620 --> 00:09:38,900
+She started Big Mailer, which is an email marketing platform with a focus on multi-brand
+
+162
+00:09:38,900 --> 00:09:41,500
+management for agencies and franchises.
+
+163
+00:09:41,500 --> 00:09:46,220
+Lillia told us, while working on our previous B2C startup, we had grown our email list to
+
+164
+00:09:46,220 --> 00:09:48,840
+more than 300,000 subscribers.
+
+165
+00:09:48,840 --> 00:09:52,700
+All the available email solutions seemed too expensive for a product update newsletter
+
+166
+00:09:52,700 --> 00:09:57,020
+of our size, so we built an in-house solution powered by Amazon SES.
+
+167
+00:09:57,020 --> 00:10:00,300
+Then we thought others might have a similar need and decided to make it into a standalone
+
+168
+00:10:00,300 --> 00:10:01,300
+tool.
+
+169
+00:10:01,300 --> 00:10:07,500
+The option might be to port an existing product to a new country, language, or geography.
+
+170
+00:10:07,500 --> 00:10:11,580
+We had a couple respondents who copied an idea that seemed to be working in the U.S.,
+
+171
+00:10:11,580 --> 00:10:15,420
+and they translated it to the needs of different geographies.
+
+172
+00:10:15,420 --> 00:10:19,960
+One example is Checkout Joy, which provides custom checkout pages for e-learning businesses
+
+173
+00:10:19,960 --> 00:10:23,380
+that connect local payment processors with LMS platforms.
+
+174
+00:10:23,380 --> 00:10:25,620
+The founder, Mering DeWett, told us,
+
+175
+00:10:25,620 --> 00:10:30,540
+My wife had a membership business and couldn't easily accept payments from their LMS platform.
+
+176
+00:10:30,540 --> 00:10:34,080
+No stripe where we live and very limited PayPal usage.
+
+177
+00:10:34,080 --> 00:10:37,180
+Locals don't want to pay in USD, but that was all the LMS offered.
+
+178
+00:10:37,180 --> 00:10:41,000
+I was researching solutions and realized that there are potentially thousands of businesses
+
+179
+00:10:41,000 --> 00:10:45,500
+with the same issue, so I built a quick MVP with our local payment processor and got them
+
+180
+00:10:45,500 --> 00:10:46,660
+live within a week.
+
+181
+00:10:46,660 --> 00:10:50,740
+We could see an immediate bump in conversions for them, and it made it easy to do business
+
+182
+00:10:50,740 --> 00:10:53,700
+and quickly get funds into their local bank account.
+
+183
+00:10:53,700 --> 00:10:58,420
+Another founder who took this approach is Simon Thompson, the founder of Hooroo.ai,
+
+184
+00:10:58,420 --> 00:11:02,860
+which is an AI answering service to help local Australian business owners manage phone
+
+185
+00:11:02,860 --> 00:11:05,780
+calls, especially during weekends and after hours.
+
+186
+00:11:05,780 --> 00:11:08,940
+It has local Australian voices and sensibilities.
+
+187
+00:11:08,940 --> 00:11:09,940
+Simon told us,
+
+188
+00:11:09,940 --> 00:11:14,140
+I saw examples in the U.S., such as Rosy AI, doing the same thing, and figured there would
+
+189
+00:11:14,140 --> 00:11:19,740
+be a need for the same type of service, but specifically with Australian accents and sensibilities.
+
+190
+00:11:19,740 --> 00:11:22,740
+I also guessed that it wouldn't make sense for the major players in the U.S. to build
+
+191
+00:11:22,740 --> 00:11:26,820
+Australian accents into their platform and go to market in Australia, at least not any
+
+192
+00:11:26,820 --> 00:11:28,300
+time in the near future.
+
+193
+00:11:28,340 --> 00:11:30,300
+So what makes this method work?
+
+194
+00:11:30,300 --> 00:11:31,500
+Well, four things.
+
+195
+00:11:31,500 --> 00:11:33,940
+The first is you have proof of demand.
+
+196
+00:11:33,940 --> 00:11:36,500
+Someone else already validated that people will pay for it.
+
+197
+00:11:36,500 --> 00:11:40,780
+The second is you can learn from the incumbent's mistakes by reading their negative reviews
+
+198
+00:11:40,780 --> 00:11:41,780
+and support forms.
+
+199
+00:11:41,780 --> 00:11:45,700
+You can see what they're doing right and see what they're doing wrong because they pioneered
+
+200
+00:11:45,700 --> 00:11:46,700
+it.
+
+201
+00:11:46,700 --> 00:11:51,500
+The third is you can differentiate on price, user experience, specific features, or a particular
+
+202
+00:11:51,500 --> 00:11:52,500
+niche.
+
+203
+00:11:52,500 --> 00:11:55,460
+And if the incumbent has been around for a long time, they've often raised prices and
+
+204
+00:11:55,460 --> 00:11:58,540
+gone up market, and that can leave a lot of opportunity.
+
+205
+00:11:58,540 --> 00:12:02,820
+The fourth is if the market is large enough, even a small slice can be a great business
+
+206
+00:12:02,820 --> 00:12:04,740
+if you're a mostly bootstrap founder.
+
+207
+00:12:04,740 --> 00:12:08,260
+But there are also four things to watch out for when using this approach.
+
+208
+00:12:08,260 --> 00:12:12,780
+The first is copying a product in a small market means you're fighting for scraps.
+
+209
+00:12:12,780 --> 00:12:15,620
+This approach works best when the market is big.
+
+210
+00:12:15,620 --> 00:12:18,860
+The second is make sure you have a real differentiator.
+
+211
+00:12:18,860 --> 00:12:20,460
+It's not just we're newer.
+
+212
+00:12:20,460 --> 00:12:21,460
+That's not enough.
+
+213
+00:12:21,460 --> 00:12:25,420
+But when we use the word copy, what we really mean is enter an existing category where
+
+214
+00:12:25,420 --> 00:12:26,860
+there are already other players.
+
+215
+00:12:26,860 --> 00:12:31,220
+I still think you need to get in and position yourself in a corner of the market that isn't
+
+216
+00:12:31,220 --> 00:12:32,660
+being served very well.
+
+217
+00:12:32,660 --> 00:12:37,260
+The third thing to watch out for is the incumbent has a head start on brand recognition, on
+
+218
+00:12:37,260 --> 00:12:41,860
+SEO, integrations, customer trust, marketing, all kinds of things.
+
+219
+00:12:41,860 --> 00:12:45,340
+And the fourth is be honest about why you think you can win.
+
+220
+00:12:45,340 --> 00:12:48,020
+All just execute better is not a strategy.
+
+221
+00:12:48,020 --> 00:12:51,820
+And just copying an existing player is very unlikely to work.
+
+222
+00:12:51,820 --> 00:12:55,380
+So the questions to ask yourself are, number one, why are customers unhappy with the current
+
+223
+00:12:55,380 --> 00:12:56,380
+options?
+
+224
+00:12:56,380 --> 00:13:00,420
+Is it price, features, support, usability, or something else?
+
+225
+00:13:00,420 --> 00:13:05,500
+Second, is my differentiation something customers actually care about, or is it just interesting
+
+226
+00:13:05,500 --> 00:13:06,500
+to me?
+
+227
+00:13:06,500 --> 00:13:11,020
+The third is, can I reach customers through a channel the incumbent isn't using well or
+
+228
+00:13:11,020 --> 00:13:12,740
+where there's some type of opportunity?
+
+229
+00:13:12,740 --> 00:13:16,740
+And the fourth is, is there a specific segment of the market that's underserved and would
+
+230
+00:13:16,740 --> 00:13:19,300
+love a product built just for them?
+
+231
+00:13:19,300 --> 00:13:22,740
+Method number three is discovering a problem through freelancing.
+
+232
+00:13:22,740 --> 00:13:26,940
+About 10% of the founders we surveyed took this approach.
+
+233
+00:13:26,940 --> 00:13:31,980
+Examples include Ben Walker, the founder of Drum, which is an ERP for small to medium consulting
+
+234
+00:13:31,980 --> 00:13:32,980
+firms.
+
+235
+00:13:32,980 --> 00:13:36,940
+Ben told us, I was consulting as a custom software developer and found that I was building
+
+236
+00:13:36,940 --> 00:13:39,780
+very similar functionality over and over.
+
+237
+00:13:39,780 --> 00:13:44,100
+I felt that if I could build a very basic version of what I was building my clients,
+
+238
+00:13:44,100 --> 00:13:48,940
+build it as a standalone tool, I should be able to find some early customers and iterate.
+
+239
+00:13:48,940 --> 00:13:53,860
+John Reynolds, the founder of Civic Review, which is permitting software for local government,
+
+240
+00:13:53,860 --> 00:13:58,100
+told us, I was a freelance software developer and I was asked to build our product, permitting
+
+241
+00:13:58,100 --> 00:13:59,860
+software, by municipalities.
+
+242
+00:13:59,860 --> 00:14:05,000
+I was asked three times and on the third time I decided, okay, these guys can't find a SaaS
+
+243
+00:14:05,000 --> 00:14:06,340
+solution that fits their needs.
+
+244
+00:14:06,340 --> 00:14:11,180
+I'll just make my own and sell it so I don't have to keep rewriting the same software.
+
+245
+00:14:11,180 --> 00:14:15,580
+There's also the chance that you discover a problem to solve that's not something you've
+
+246
+00:14:15,580 --> 00:14:20,300
+been asked to build multiple times, but rather it's a tool that you need in order to be more
+
+247
+00:14:20,300 --> 00:14:22,500
+efficient in writing your agency.
+
+248
+00:14:22,500 --> 00:14:27,300
+Colin Bartlett, the co-founder of Status Gator, which is a status aggregator, told us, I was
+
+249
+00:14:27,300 --> 00:14:31,820
+working on a bug ticket for a customer all day and then finally came across the status
+
+250
+00:14:31,820 --> 00:14:37,260
+page for the Facebook ads API and it had a warning about there being intermittent failures.
+
+251
+00:14:37,260 --> 00:14:38,780
+Turns out that was the bug.
+
+252
+00:14:38,780 --> 00:14:43,100
+It annoyed me that I did not even know the status page existed, plus the app interfaced
+
+253
+00:14:43,100 --> 00:14:45,660
+with like 10 other ads APIs.
+
+254
+00:14:45,660 --> 00:14:49,580
+I thought it would be really nice to have all that on one screen and get an email when
+
+255
+00:14:49,580 --> 00:14:50,740
+the status changed.
+
+256
+00:14:50,740 --> 00:14:52,980
+So I built Status Gator for myself.
+
+257
+00:14:52,980 --> 00:14:57,220
+Note that it's important if you're going to do this, that you think very carefully about
+
+258
+00:14:57,220 --> 00:14:58,920
+the intellectual property.
+
+259
+00:14:58,920 --> 00:15:04,700
+In a lot of consulting and employment agreements, you will sign away anything you build at the
+
+260
+00:15:04,700 --> 00:15:09,780
+job and anything you build in your free time, even on your own computers at home.
+
+261
+00:15:09,780 --> 00:15:15,180
+So you want to be very diligent about this and have all your I's dotted and T's crossed.
+
+262
+00:15:15,180 --> 00:15:20,380
+Another example is Dump Truck Dispatcher, founded by Joe Walling, no relation.
+
+263
+00:15:20,380 --> 00:15:25,100
+Dump Truck Dispatcher streamlines the operations and logistics for bulk hauling companies.
+
+264
+00:15:25,100 --> 00:15:28,460
+And Joe told us, at the time I ran a custom software development company.
+
+265
+00:15:28,460 --> 00:15:30,420
+I had a client who wanted this type of software.
+
+266
+00:15:30,420 --> 00:15:34,100
+I kept the IP and return for charging them less for the software.
+
+267
+00:15:34,100 --> 00:15:36,800
+So let's look at four reasons why this method works.
+
+268
+00:15:36,800 --> 00:15:41,540
+The first is you see the same problems across multiple clients, which validates that demand
+
+269
+00:15:41,540 --> 00:15:43,240
+exists beyond one company.
+
+270
+00:15:43,240 --> 00:15:47,220
+The second is that clients are literally paying you to understand their problems.
+
+271
+00:15:47,220 --> 00:15:50,480
+You're getting paid to do market research and customer development.
+
+272
+00:15:50,480 --> 00:15:54,920
+The third is you build real expertise in the domain as you're getting paid.
+
+273
+00:15:54,920 --> 00:15:59,180
+And the fourth is you can sometimes fund early product development through your agency or
+
+274
+00:15:59,180 --> 00:16:00,540
+freelancing revenue.
+
+275
+00:16:00,540 --> 00:16:04,900
+But four things to watch out for include agency work is demanding, finding time to
+
+276
+00:16:04,900 --> 00:16:07,460
+build a product on the side is genuinely hard.
+
+277
+00:16:07,460 --> 00:16:12,620
+Number two is make sure IP ownership is clear in your client's contracts before you productized
+
+278
+00:16:12,620 --> 00:16:15,480
+anything like in the case of Dump Truck Dispatcher.
+
+279
+00:16:15,480 --> 00:16:20,880
+The third is that the transition from freelancing, agency, custom work to actually thinking like
+
+280
+00:16:20,880 --> 00:16:23,360
+a product owner is harder than it looks.
+
+281
+00:16:23,360 --> 00:16:26,260
+You have to learn to say no to feature requests.
+
+282
+00:16:26,260 --> 00:16:30,360
+And the fourth is don't build a product so tailored to one client that no one else wants
+
+283
+00:16:30,360 --> 00:16:31,360
+it.
+
+284
+00:16:31,360 --> 00:16:34,620
+So I have four questions to ask yourself if you're going to take this approach.
+
+285
+00:16:34,620 --> 00:16:39,880
+The first is what functionality have I built three or more times for different clients?
+
+286
+00:16:39,880 --> 00:16:44,500
+What internal tools have I built to make my agency more effective or efficient that others
+
+287
+00:16:44,500 --> 00:16:45,500
+might want?
+
+288
+00:16:45,500 --> 00:16:49,400
+Do I have a clear path to transitioning from agency revenue to product revenue?
+
+289
+00:16:49,400 --> 00:16:51,620
+Or will I be stuck doing both forever?
+
+290
+00:16:51,620 --> 00:16:56,460
+And the last is are my clients in an industry I actually want to serve long-term?
+
+291
+00:16:56,460 --> 00:17:00,800
+So real quick, if you found any of this helpful so far, can you please give this video a like
+
+292
+00:17:00,800 --> 00:17:01,960
+and subscribe to the channel?
+
+293
+00:17:01,960 --> 00:17:05,440
+My team and I are working really hard to bring you content like this.
+
+294
+00:17:05,440 --> 00:17:10,840
+We put a ton of time and energy into making sure the content is super valuable for you.
+
+295
+00:17:10,840 --> 00:17:14,700
+And when we see those metrics on YouTube, the likes and the subscribes, it helps us
+
+296
+00:17:14,700 --> 00:17:16,760
+know that we're on the right track.
+
+297
+00:17:16,760 --> 00:17:21,400
+So those first three methods all assume you have work experience to draw from.
+
+298
+00:17:21,400 --> 00:17:25,840
+But what if you're early in your career or you want to look beyond your current industry?
+
+299
+00:17:25,840 --> 00:17:30,500
+Method number four is solving a problem for a spouse, friend, or colleague.
+
+300
+00:17:30,500 --> 00:17:35,720
+And about 8% of respondents said this is how they found their startup idea.
+
+301
+00:17:35,720 --> 00:17:39,680
+In this case, you're going to want to go on the hunt and try to find problems.
+
+302
+00:17:39,680 --> 00:17:41,980
+So you'll want to reach out to your network.
+
+303
+00:17:41,980 --> 00:17:45,620
+Maybe you talk to your spouse or maybe you talk to your friends to see what problems
+
+304
+00:17:45,620 --> 00:17:47,740
+they have in their day jobs.
+
+305
+00:17:47,980 --> 00:17:53,300
+John's sister is the founder of Quill Therapy Solutions, which he describes as software
+
+306
+00:17:53,300 --> 00:17:57,860
+that generates progress notes and other forms of documentation for mental health therapists
+
+307
+00:17:57,860 --> 00:18:02,660
+in an ethical and privacy-focused way without recording therapy sessions.
+
+308
+00:18:02,660 --> 00:18:04,920
+John told us how he came up with the idea.
+
+309
+00:18:04,920 --> 00:18:06,800
+He said, my wife is a therapist.
+
+310
+00:18:06,800 --> 00:18:09,380
+And she 100% thought of the idea.
+
+311
+00:18:09,380 --> 00:18:13,360
+She saw me working on a different idea that relied on AI to rearrange information.
+
+312
+00:18:13,360 --> 00:18:17,080
+And she basically said, hey, could you do that for progress notes instead?
+
+313
+00:18:17,840 --> 00:18:23,240
+One way to approach this method is to have a chat with someone who has deep experience.
+
+314
+00:18:23,240 --> 00:18:28,440
+Yoi Sigurdsson is the founder of Crankwheel, which is a screen-sharing, web conferencing,
+
+315
+00:18:28,440 --> 00:18:30,520
+and video platform for sales.
+
+316
+00:18:30,520 --> 00:18:35,280
+And Yoi told us, so my co-founder, Gilcy, had been working for years in various sales
+
+317
+00:18:35,280 --> 00:18:40,200
+jobs, mostly sort of hybrid telephone and in-person sales, like insurance and banking,
+
+318
+00:18:40,200 --> 00:18:41,760
+telecoms, that kind of stuff.
+
+319
+00:18:41,760 --> 00:18:45,220
+And we started brainstorming about what's missing from that kind of space.
+
+320
+00:18:45,220 --> 00:18:49,060
+We rediscovered a lot of sales enablement tools that already existed.
+
+321
+00:18:49,060 --> 00:18:52,660
+And I'd been working on real-time communications in Google Chrome at Google.
+
+322
+00:18:52,660 --> 00:18:56,560
+So I innocently asked him at some point what people use when they're on the phone with
+
+323
+00:18:56,560 --> 00:18:59,520
+a prospect and they need to show them something.
+
+324
+00:18:59,520 --> 00:19:04,080
+As it turned out, they didn't use anything because it's too complex for a lot of prospects.
+
+325
+00:19:04,080 --> 00:19:08,020
+And you don't want to take a good sales call and ruin it with some tech issues.
+
+326
+00:19:08,020 --> 00:19:10,420
+That's how the idea for Crankwheel was born.
+
+327
+00:19:10,420 --> 00:19:13,980
+What makes this method work are the following four things.
+
+328
+00:19:13,980 --> 00:19:18,280
+Number one, you have a direct line to someone experiencing the problem, instant access
+
+329
+00:19:18,280 --> 00:19:20,620
+for interviews, feedback, and iteration.
+
+330
+00:19:20,620 --> 00:19:25,060
+Number two, you can deeply understand the problem without having to cold call strangers
+
+331
+00:19:25,060 --> 00:19:26,860
+at least initially.
+
+332
+00:19:26,860 --> 00:19:29,540
+Number three, your relationship creates accountability.
+
+333
+00:19:29,540 --> 00:19:32,880
+You're more likely to follow through when someone you care about is counting on you.
+
+334
+00:19:32,880 --> 00:19:36,820
+And number four, they can introduce you to others in the field for validation and early
+
+335
+00:19:36,820 --> 00:19:37,820
+sales.
+
+336
+00:19:37,820 --> 00:19:39,100
+But there are things to watch out for.
+
+337
+00:19:39,100 --> 00:19:43,460
+The first is your spouse or friend might have a unique problem that others in their field
+
+338
+00:19:43,460 --> 00:19:44,460
+don't share.
+
+339
+00:19:44,460 --> 00:19:46,460
+So you want to validate beyond them.
+
+340
+00:19:46,460 --> 00:19:50,060
+The second one is they might be too nice to tell you your solution isn't good.
+
+341
+00:19:50,060 --> 00:19:51,540
+So push for honest feedback.
+
+342
+00:19:51,540 --> 00:19:55,900
+The third is mixing business and personal relationships can get complicated.
+
+343
+00:19:55,900 --> 00:19:58,020
+So you're going to want to set expectations early.
+
+344
+00:19:58,020 --> 00:20:00,520
+And finally, you still need to understand the market.
+
+345
+00:20:00,520 --> 00:20:04,300
+Their expertise plus your building skills isn't enough on its own.
+
+346
+00:20:04,300 --> 00:20:08,400
+If you're going to attempt this method, you're going to want to ask yourself four questions.
+
+347
+00:20:08,400 --> 00:20:13,880
+The first is, what does my spouse, partner, or close friend complain about in their day
+
+348
+00:20:13,880 --> 00:20:14,880
+job?
+
+349
+00:20:14,880 --> 00:20:18,720
+The second is, do I think they can introduce me to other people who potentially work in
+
+350
+00:20:18,720 --> 00:20:21,120
+the same field and have the same problem?
+
+351
+00:20:21,120 --> 00:20:23,280
+It'd be nice to have five intros, for example.
+
+352
+00:20:23,280 --> 00:20:28,140
+The third question is, am I building this to solve a real problem that I think can be
+
+353
+00:20:28,140 --> 00:20:29,520
+a great business?
+
+354
+00:20:29,520 --> 00:20:32,920
+Or am I doing it to solve the problem of a person that I care about?
+
+355
+00:20:32,920 --> 00:20:37,800
+And the last one is, do I have the patience to learn an industry that I'm not already
+
+356
+00:20:37,800 --> 00:20:39,420
+familiar with?
+
+357
+00:20:39,420 --> 00:20:44,160
+Method number five for finding startup ideas is to find a problem online.
+
+358
+00:20:44,160 --> 00:20:48,780
+And only 3% of respondents used this approach.
+
+359
+00:20:48,780 --> 00:20:54,120
+So this is where instead of going to people you know, you are looking for ideas in forums,
+
+360
+00:20:54,120 --> 00:20:58,760
+in online groups, whether it's Facebook or Reddit or private Slack groups you're in.
+
+361
+00:20:58,760 --> 00:21:02,920
+Maybe you're lurking in support forums, looking for problems that aren't already solved.
+
+362
+00:21:02,920 --> 00:21:07,160
+And this method often gets touted online, but it's really hard to do as evidenced by
+
+363
+00:21:07,160 --> 00:21:11,200
+the fact that only 3% of folks who responded to the survey actually used it.
+
+364
+00:21:11,200 --> 00:21:15,320
+It didn't show up much in our research, and only a handful of respondents had used this
+
+365
+00:21:15,320 --> 00:21:16,320
+method.
+
+366
+00:21:16,320 --> 00:21:19,880
+A couple examples are Tolu Akanola, who is the founder of StreamThing.
+
+367
+00:21:19,880 --> 00:21:25,000
+StreamThing is a Shopify app to enable buyers to select a specific delivery date, for example,
+
+368
+00:21:25,000 --> 00:21:26,280
+for gift purchases.
+
+369
+00:21:26,280 --> 00:21:31,120
+Tolu told us, someone had recently asked me to help set up a Shopify store, and I noticed
+
+370
+00:21:31,120 --> 00:21:34,280
+they had an open API, so I decided to build a Shopify app.
+
+371
+00:21:34,280 --> 00:21:37,760
+I combed through the Shopify support forums to find issues that merchants were complaining
+
+372
+00:21:37,760 --> 00:21:38,760
+about.
+
+373
+00:21:38,760 --> 00:21:42,520
+Once I came up with a short list, I looked in their app store to find which apps addressed
+
+374
+00:21:42,520 --> 00:21:43,520
+the issue.
+
+375
+00:21:43,520 --> 00:21:48,800
+I prioritized issues that had apps with lots of reviews, but also a lot of negative reviews.
+
+376
+00:21:48,800 --> 00:21:52,080
+This helped identify problems that were pervasive but not well addressed.
+
+377
+00:21:52,080 --> 00:21:58,400
+Another example is Rami Kufash, the founder of HoverCode, which is a dynamic QR code generator.
+
+378
+00:21:58,400 --> 00:22:03,240
+Dynamic meaning the scan destination can be edited after printing, and you get analytics.
+
+379
+00:22:03,240 --> 00:22:08,040
+So Rami told us, it was a mixture of having somewhat of a hypothesis or interest in keyword
+
+380
+00:22:08,040 --> 00:22:09,040
+research.
+
+381
+00:22:09,040 --> 00:22:13,480
+I found QR codes interesting generally, and after chatting with a friend who works in
+
+382
+00:22:13,480 --> 00:22:17,240
+marketing, I started to think that marketers were still in the early stages of making use
+
+383
+00:22:17,240 --> 00:22:19,600
+of QR codes, and there was still opportunity.
+
+384
+00:22:19,600 --> 00:22:24,040
+I did some keyword research with Ahrefs to see if there was demand for QR code tools
+
+385
+00:22:24,040 --> 00:22:28,160
+and saw huge search volume, which was enough for me to get involved in the space.
+
+386
+00:22:28,160 --> 00:22:29,560
+What makes this work?
+
+387
+00:22:29,560 --> 00:22:32,360
+Well, there's a bunch of things, but let's cover four.
+
+388
+00:22:32,360 --> 00:22:35,400
+One is you can discover problems in industries you've never worked in.
+
+389
+00:22:35,400 --> 00:22:40,080
+Public forums give you unfiltered access to real frustrations and complaints.
+
+390
+00:22:40,080 --> 00:22:44,800
+You can validate demand through search volume, number of complaints, or size of communities.
+
+391
+00:22:44,800 --> 00:22:49,240
+And lastly, negative reviews of existing products are a goldmine for differentiation.
+
+392
+00:22:49,240 --> 00:22:50,680
+But there are things you should watch out for.
+
+393
+00:22:50,680 --> 00:22:54,160
+The first is people complain about a lot of things they wouldn't actually pay for.
+
+394
+00:22:54,160 --> 00:22:56,320
+The signal to noise ratio can be low.
+
+395
+00:22:56,320 --> 00:22:58,360
+You lack the context that insiders have.
+
+396
+00:22:58,360 --> 00:23:00,960
+You might misunderstand the problem or the market dynamics.
+
+397
+00:23:00,960 --> 00:23:04,400
+The third one is this method takes a lot of time and patience.
+
+398
+00:23:04,400 --> 00:23:06,600
+Most people give up before finding anything good.
+
+399
+00:23:06,600 --> 00:23:11,160
+And lastly, selling to people you've never met in an industry you don't understand is
+
+400
+00:23:11,160 --> 00:23:12,560
+genuinely hard.
+
+401
+00:23:12,560 --> 00:23:17,120
+Some questions to ask yourself are, am I finding the same complaint repeated by many people,
+
+402
+00:23:17,120 --> 00:23:18,840
+or is this just a one-off gripe?
+
+403
+00:23:18,840 --> 00:23:21,760
+Would people pay money to solve this, or do they want to vent?
+
+404
+00:23:21,760 --> 00:23:25,600
+Can I actually reach these people to sell to them, or are they scattered and going to
+
+405
+00:23:25,600 --> 00:23:27,640
+be hard or expensive to find?
+
+406
+00:23:27,640 --> 00:23:32,040
+And am I willing to invest the time to deeply understand an unfamiliar industry before
+
+407
+00:23:32,040 --> 00:23:33,320
+I start building?
+
+408
+00:23:33,320 --> 00:23:37,280
+Among our respondents, there were a couple of people who had grown nice marketplace businesses.
+
+409
+00:23:37,280 --> 00:23:41,580
+And if you're interested in building an add-on for an existing platform, my team has pulled
+
+410
+00:23:41,580 --> 00:23:47,280
+together a list of over 75 marketplaces at microconf.com slash marketplaces.
+
+411
+00:23:47,280 --> 00:23:51,920
+In addition, you can look at Reddit communities related to specific industries or professions.
+
+412
+00:23:51,920 --> 00:23:56,000
+You can look at Facebook groups for niche professional communities, support forums for
+
+413
+00:23:56,000 --> 00:24:00,200
+existing products where you want to look for repeated complaints, review sites like
+
+414
+00:24:00,200 --> 00:24:06,320
+G2, Captera, or App Store reviews, and finally, keyword research tools like Ahrefs, SEMrush,
+
+415
+00:24:06,320 --> 00:24:08,560
+or even Google's Keyword Planner.
+
+416
+00:24:08,560 --> 00:24:13,960
+So I have one real-world example from someone who completed the survey, and in this example,
+
+417
+00:24:13,960 --> 00:24:17,080
+they actually noticed something while they were out in the real world.
+
+418
+00:24:17,080 --> 00:24:22,240
+So Steven Gladney is the founder of Order Nerd, and Order Nerd aggregates third-party
+
+419
+00:24:22,240 --> 00:24:26,920
+online ordering apps like DoorDash, Uber Eats, Grubhub into a single platform to make
+
+420
+00:24:26,920 --> 00:24:30,320
+it easier for restaurant owners and staff to manage.
+
+421
+00:24:30,320 --> 00:24:35,180
+Steven told us, we already had our team, a sales guy and a developer, and we're actively
+
+422
+00:24:35,180 --> 00:24:36,560
+hunting ideas.
+
+423
+00:24:36,560 --> 00:24:40,360
+One day my co-founder was at a restaurant and saw a wall of tablets and began talking to
+
+424
+00:24:40,360 --> 00:24:41,360
+the staff about it.
+
+425
+00:24:41,360 --> 00:24:45,360
+The pain in their voice was palpable, I laughed because, man, when you hear a pain point like
+
+426
+00:24:45,360 --> 00:24:47,640
+that, it's often a good sign.
+
+427
+00:24:47,640 --> 00:24:52,240
+He texted me a photo and said, it might be the beer talking, but I think this is the
+
+428
+00:24:52,240 --> 00:24:53,960
+problem we need to solve.
+
+429
+00:24:53,960 --> 00:24:57,860
+Given that I had previously sold to restaurants for five years, and he had over a decade of
+
+430
+00:24:57,860 --> 00:25:02,160
+experience working with third-party APIs, we knew we were the right people to tackle
+
+431
+00:25:02,160 --> 00:25:03,160
+this problem.
+
+432
+00:25:03,160 --> 00:25:06,920
+Obviously, this is a unique example that might be hard to replicate, but it's a good reminder
+
+433
+00:25:06,920 --> 00:25:11,760
+that by remaining curious and observant, you might find an idea in a place you wouldn't
+
+434
+00:25:11,760 --> 00:25:12,760
+expect.
+
+435
+00:25:12,760 --> 00:25:18,720
+The number six is to scratch your own itch, and this one was made so popular in the early
+
+436
+00:25:18,720 --> 00:25:26,080
+and mid-2000s by Basecamp, by DHH and Jason Fried, because they scratched their own itch
+
+437
+00:25:26,080 --> 00:25:31,240
+and it worked for them, and so they would often talk that maybe that's the best way
+
+438
+00:25:31,240 --> 00:25:32,400
+to start a startup.
+
+439
+00:25:32,400 --> 00:25:37,880
+And while it's certainly not a bad way, only 16% of our respondents did this.
+
+440
+00:25:37,880 --> 00:25:40,620
+This is where you build something to solve your own problem, and you discover that other
+
+441
+00:25:40,620 --> 00:25:46,440
+people have the same issue, and you can find them, and they will pay for it.
+
+442
+00:25:46,440 --> 00:25:49,020
+So there's a lot that has to come into play.
+
+443
+00:25:49,020 --> 00:25:52,580
+So there's a lot of things that have to line up in order for this to work.
+
+444
+00:25:52,580 --> 00:25:55,060
+You can't just say, I have a problem, therefore that's validation.
+
+445
+00:25:55,060 --> 00:25:56,060
+It's not.
+
+446
+00:25:56,060 --> 00:25:59,320
+You validated that you will have one customer paying you $0, which is yourself.
+
+447
+00:25:59,320 --> 00:26:03,460
+So when I think about scratching my own itch, which is, I've done, I built, Drip was an
+
+448
+00:26:03,460 --> 00:26:10,260
+originally software to scratch your own itch, and I took that idea and went and asked 17
+
+449
+00:26:10,260 --> 00:26:13,860
+other founders that I knew if they had the problem, and when I got 10 or 11 yeses, then
+
+450
+00:26:13,860 --> 00:26:14,860
+we started building.
+
+451
+00:26:14,860 --> 00:26:17,660
+So if I was going to do scratch my own itch, I would want to validate there are other people
+
+452
+00:26:17,660 --> 00:26:19,860
+out there with this issue.
+
+453
+00:26:19,860 --> 00:26:25,500
+Examples of founders who scratched their own itch include Olga Huser, the founder of Dialogshift,
+
+454
+00:26:25,500 --> 00:26:27,780
+which is an AI application for hotels.
+
+455
+00:26:27,780 --> 00:26:30,700
+It's chatbot, phone AI, email AI.
+
+456
+00:26:30,700 --> 00:26:35,380
+Olga told us, we came up with the idea as hotel guests ourselves, frustrated by how
+
+457
+00:26:35,380 --> 00:26:39,000
+difficult it was to get simple information about what, where, and when things were happening
+
+458
+00:26:39,000 --> 00:26:40,320
+during our stay.
+
+459
+00:26:40,320 --> 00:26:44,020
+Our initial thought was how great would it be to just send a WhatsApp message and instantly
+
+460
+00:26:44,020 --> 00:26:46,160
+get answers to all our questions about the hotel?
+
+461
+00:26:46,160 --> 00:26:50,080
+For example, when is the next yoga class to what time is breakfast served?
+
+462
+00:26:50,080 --> 00:26:52,180
+Can you send me the daily program?
+
+463
+00:26:52,180 --> 00:26:56,320
+One more example is from Scott Brownlee, the founder of Simple Booklet.
+
+464
+00:26:56,320 --> 00:27:02,960
+Simple Booklet is marketing, communication, and support collateral presentation that includes
+
+465
+00:27:02,960 --> 00:27:05,000
+distribution and tracking across the web.
+
+466
+00:27:05,000 --> 00:27:09,160
+Scott told us, I had sold an earlier business in the early 2000s, then went sailing with
+
+467
+00:27:09,160 --> 00:27:11,400
+my wife for 11 years around the world.
+
+468
+00:27:11,400 --> 00:27:15,360
+Getting access to information about places was difficult and usually was in the form
+
+469
+00:27:15,360 --> 00:27:17,720
+of paper brochures, lookbooks, and guides.
+
+470
+00:27:17,720 --> 00:27:22,000
+I really just wanted to scan a QR code or get it on my tablet or phone to access.
+
+471
+00:27:22,000 --> 00:27:27,640
+And since every print brochure started as a PDF, how could we make that more accessible?
+
+472
+00:27:27,640 --> 00:27:29,800
+What makes scratching your own itch work?
+
+473
+00:27:29,800 --> 00:27:34,360
+Well, first of all, you understand the problem intimately because you've experienced it yourself.
+
+474
+00:27:34,360 --> 00:27:37,300
+You're motivated to solve it because it genuinely bothers you.
+
+475
+00:27:37,300 --> 00:27:40,620
+You can be your own first user, which speeds up iteration.
+
+476
+00:27:40,620 --> 00:27:44,360
+And your passion for the problem often comes through in marketing and sales, but there's
+
+477
+00:27:44,360 --> 00:27:45,800
+a few things you want to watch out for.
+
+478
+00:27:45,800 --> 00:27:48,640
+The first is you might be a market of one.
+
+479
+00:27:48,640 --> 00:27:50,300
+I referenced this earlier.
+
+480
+00:27:50,300 --> 00:27:54,180
+Just because you have this problem doesn't mean enough other people do to make a business.
+
+481
+00:27:54,180 --> 00:27:58,340
+The second is you might build what you want rather than what the market wants.
+
+482
+00:27:58,340 --> 00:27:59,760
+So stay open to feedback.
+
+483
+00:27:59,760 --> 00:28:04,080
+The third, your use case might be too niche or too specific to your situation.
+
+484
+00:28:04,080 --> 00:28:08,520
+And the fourth is founders often underestimate how different their needs are from typical
+
+485
+00:28:08,520 --> 00:28:09,520
+customers.
+
+486
+00:28:09,520 --> 00:28:10,920
+So questions to ask yourself.
+
+487
+00:28:10,920 --> 00:28:14,240
+Number one, how many other people have this exact problem?
+
+488
+00:28:14,240 --> 00:28:16,000
+Can I find them and talk to them?
+
+489
+00:28:16,000 --> 00:28:18,920
+Am I a representative user or am I an edge case?
+
+490
+00:28:18,920 --> 00:28:22,960
+Would I pay more money to solve this problem or do I just find it mildly annoying?
+
+491
+00:28:22,960 --> 00:28:27,680
+And lastly, can I separate my personal preferences from what the market actually needs?
+
+492
+00:28:27,680 --> 00:28:31,080
+Since we did all this research, I'm actually going to take a lot of it and put it in a
+
+493
+00:28:31,080 --> 00:28:36,620
+new book I'm working on, on finding, choosing, and validating your idea, finding product
+
+494
+00:28:36,620 --> 00:28:40,040
+market fit, and launching a profitable SaaS business.
+
+495
+00:28:40,040 --> 00:28:44,840
+If you want early access to chapter previews, launch updates, that kind of thing, hop on
+
+496
+00:28:44,840 --> 00:28:48,680
+my email list, robwalling.com slash emails.
+
+497
+00:28:48,680 --> 00:28:54,680
+Method number seven is taking advantage of an emerging or a fast growing technology.
+
+498
+00:28:54,680 --> 00:29:00,840
+This is every developer's dream where AI becomes a thing or DHTML, remember Ajax and like
+
+499
+00:29:01,080 --> 00:29:04,440
+2006 where suddenly you could do stuff in a browser you couldn't do before and you see
+
+500
+00:29:04,440 --> 00:29:06,640
+it and you think, what can I build with this?
+
+501
+00:29:06,640 --> 00:29:10,720
+And while it's every developer's dream to play with that new technology, it's very rare,
+
+502
+00:29:10,720 --> 00:29:15,440
+at least according to our survey, that people actually turn these into businesses.
+
+503
+00:29:15,440 --> 00:29:17,560
+Only 3% of respondents went this route.
+
+504
+00:29:17,560 --> 00:29:22,360
+And when I say an emerging technology, this can be AI, it can be a brand new API.
+
+505
+00:29:22,360 --> 00:29:28,000
+It can be a new platform like when I think Facebook opened up for development and, you
+
+506
+00:29:28,000 --> 00:29:32,020
+know, Squarespace, HubSpot, like all these marketplaces, Shopify.
+
+507
+00:29:32,020 --> 00:29:37,280
+When these open up, you can look for practical applications before the market gets crowded.
+
+508
+00:29:37,280 --> 00:29:39,340
+Examples of this include Ram Shingala.
+
+509
+00:29:39,340 --> 00:29:43,800
+He's the founder of WA Notifier, which is an all in one WhatsApp marketing tool for
+
+510
+00:29:43,800 --> 00:29:44,800
+businesses.
+
+511
+00:29:44,800 --> 00:29:49,740
+Ram told us, I used to run a WordPress agency and setting up email marketing forms was one
+
+512
+00:29:49,740 --> 00:29:53,120
+of the recurring things we used to do for businesses in Western countries.
+
+513
+00:29:53,120 --> 00:29:57,800
+With WhatsApp gaining momentum and WhatsApp marketing starting to pick up, I made an assumption
+
+514
+00:29:57,800 --> 00:30:02,320
+that if email and email marketing is big, WhatsApp marketing can also become big.
+
+515
+00:30:02,320 --> 00:30:07,100
+This was especially for businesses in countries where WhatsApp was popular and a primary channel
+
+516
+00:30:07,100 --> 00:30:11,680
+for communication like India, GCC countries, South America, et cetera.
+
+517
+00:30:11,680 --> 00:30:16,300
+And then right around 2000, when I was looking for SaaS ideas, WhatsApp opened up their gates
+
+518
+00:30:16,300 --> 00:30:18,480
+for new API partners.
+
+519
+00:30:18,480 --> 00:30:19,840
+So the timing is right.
+
+520
+00:30:19,840 --> 00:30:21,360
+And that's how I got started.
+
+521
+00:30:21,360 --> 00:30:25,200
+Another example is from Alex Charles, founder of GenText AI.
+
+522
+00:30:25,200 --> 00:30:31,520
+GenText AI is applied AI add-ins for Microsoft Word, expanding to other AI applications.
+
+523
+00:30:31,520 --> 00:30:37,040
+Alex said, I worked as a consultant, an economist, and used the Microsoft Office suite heavily.
+
+524
+00:30:37,040 --> 00:30:41,120
+Soon as chat GPT came out, I realized it would be extremely useful if connected to Office
+
+525
+00:30:41,120 --> 00:30:43,280
+and if it could reduce hallucinations.
+
+526
+00:30:43,280 --> 00:30:44,780
+That's how the idea came about.
+
+527
+00:30:44,780 --> 00:30:46,960
+Then there's Tiago, the founder of PodSqueeze.
+
+528
+00:30:46,960 --> 00:30:50,880
+PodSqueeze is an application we actually use to help produce my podcast startup for the
+
+529
+00:30:50,880 --> 00:30:51,880
+rest of us.
+
+530
+00:30:51,880 --> 00:30:55,840
+All in one solution for the production and promotion of podcasts.
+
+531
+00:30:55,840 --> 00:31:01,880
+So you upload audio or video and it generates social media posts, clips, summaries, transcripts,
+
+532
+00:31:01,880 --> 00:31:02,880
+and more.
+
+533
+00:31:02,880 --> 00:31:07,520
+Tiago said, I had my podcast, it got really frustrated with all the post-production work.
+
+534
+00:31:07,520 --> 00:31:10,700
+In other words, creating the show notes, promotional content.
+
+535
+00:31:10,700 --> 00:31:14,760
+So back then chat GPT had just been released and we thought that even if the AI transcripts
+
+536
+00:31:14,760 --> 00:31:19,960
+made mistakes, GPT was smart enough to get that content and generate good text assets.
+
+537
+00:31:19,960 --> 00:31:21,120
+That's how we started.
+
+538
+00:31:21,120 --> 00:31:22,120
+So what makes this work?
+
+539
+00:31:22,120 --> 00:31:26,120
+Well, first of all, early movers can establish themselves before the market gets crowded.
+
+540
+00:31:26,120 --> 00:31:29,900
+New technology often creates new problems that need new solutions.
+
+541
+00:31:29,900 --> 00:31:33,800
+The third is you can ride the wave of attention and interest in the technology itself.
+
+542
+00:31:33,800 --> 00:31:37,880
+And lastly, customers are often more forgiving of rough edges when the technology is new,
+
+543
+00:31:37,880 --> 00:31:39,780
+but there are some things to watch out for.
+
+544
+00:31:39,780 --> 00:31:42,120
+First is timing can be extremely difficult.
+
+545
+00:31:42,120 --> 00:31:46,360
+If you're too early, the technology isn't ready or the customers aren't educated.
+
+546
+00:31:46,360 --> 00:31:49,880
+If you're too late, then you're one of dozens or hundreds of competitors.
+
+547
+00:31:50,040 --> 00:31:53,840
+The second thing is the hype cycle can mislead you just because people are talking about
+
+548
+00:31:53,840 --> 00:31:57,080
+a technology doesn't mean they'll pay for whatever you're building.
+
+549
+00:31:57,080 --> 00:32:01,600
+The third is the technology might not mature the way you expect, leaving you with a product
+
+550
+00:32:01,600 --> 00:32:03,400
+built on shaky foundations.
+
+551
+00:32:03,400 --> 00:32:06,600
+And lastly, big players can also move fast in hotspaces.
+
+552
+00:32:06,600 --> 00:32:09,800
+So you might get crushed by well-funded competitors.
+
+553
+00:32:09,800 --> 00:32:14,280
+The questions to ask yourself are, is this technology actually ready for real world use
+
+554
+00:32:14,280 --> 00:32:16,600
+cases or is it still experimental?
+
+555
+00:32:16,600 --> 00:32:20,000
+Second one, are businesses already spending money in adjacent areas?
+
+556
+00:32:20,000 --> 00:32:22,200
+Or is this entirely speculative?
+
+557
+00:32:22,200 --> 00:32:25,480
+Do I have a unique angle or insight or am I just chasing hype?
+
+558
+00:32:25,480 --> 00:32:29,680
+And lastly, can I build something useful quickly before the window closes?
+
+559
+00:32:29,680 --> 00:32:36,320
+And my eighth and final method for finding SAS ideas is building on an existing product.
+
+560
+00:32:36,320 --> 00:32:39,520
+Four percent of respondents told us this was their approach.
+
+561
+00:32:39,520 --> 00:32:44,760
+So this is where you're working on one product and you discover a bigger or a better opportunity.
+
+562
+00:32:44,760 --> 00:32:49,280
+Maybe an internal tool with outside demand or an adjacent problem that your customers
+
+563
+00:32:49,280 --> 00:32:50,400
+keep mentioning.
+
+564
+00:32:50,400 --> 00:32:53,600
+This obviously wasn't a huge group, it was four percent, but we did have a number of
+
+565
+00:32:53,600 --> 00:32:57,240
+respondents who were working on a product at various levels of success.
+
+566
+00:32:57,240 --> 00:32:59,800
+And then in doing so, discovered a bigger opportunity.
+
+567
+00:32:59,800 --> 00:33:04,440
+It's worth noting these weren't necessarily pivots, but new products altogether.
+
+568
+00:33:04,440 --> 00:33:09,880
+So Ivana is the founder of Authored Up, which is LinkedIn content creation and analysis
+
+569
+00:33:09,880 --> 00:33:11,740
+integrated via Chrome extension.
+
+570
+00:33:11,740 --> 00:33:15,920
+And Ivana told us, we were working on a startup for hiring managers and recruiters.
+
+571
+00:33:15,920 --> 00:33:20,340
+We had a product developed, but we were working in a vacuum, not talking to potential customers,
+
+572
+00:33:20,340 --> 00:33:21,500
+no mom test.
+
+573
+00:33:21,500 --> 00:33:25,180
+After we almost finished the product, we wanted to get feedback and beta users.
+
+574
+00:33:25,180 --> 00:33:28,060
+We tried networking, sending LinkedIn DMs and pitching.
+
+575
+00:33:28,060 --> 00:33:32,380
+We realized we can try creating content on LinkedIn, but we couldn't find simple tools
+
+576
+00:33:32,380 --> 00:33:33,380
+to help us out.
+
+577
+00:33:33,380 --> 00:33:35,220
+And that's when we built this internal tool.
+
+578
+00:33:35,220 --> 00:33:39,340
+Rafal, who's the founder of Supa Data, which is an API that lets developers and no code
+
+579
+00:33:39,340 --> 00:33:44,460
+makers easily extract data from websites and platforms like YouTube, TikTok, Instagram,
+
+580
+00:33:44,460 --> 00:33:45,460
+and X Twitter.
+
+581
+00:33:45,460 --> 00:33:48,900
+Rafal told us, it's my own itch, which turned into a business.
+
+582
+00:33:48,900 --> 00:33:53,060
+I needed to scrape YouTube transcripts to add a feature to my other product.
+
+583
+00:33:53,060 --> 00:33:56,760
+Over time, I also use this scraper to build other small products.
+
+584
+00:33:56,760 --> 00:34:00,060
+It became de facto and API servicing multiple apps.
+
+585
+00:34:00,060 --> 00:34:03,700
+At some point I decided to make a small experiment and try to monetize it on rapid API.
+
+586
+00:34:03,700 --> 00:34:05,220
+And from there it snowballed.
+
+587
+00:34:05,220 --> 00:34:08,140
+And lastly, we have Ruben Gomez, the founder of Signwell.
+
+588
+00:34:08,140 --> 00:34:12,620
+Signwell provides easy to use document signing with enterprise grade security and compliance
+
+589
+00:34:12,620 --> 00:34:14,060
+at an affordable price.
+
+590
+00:34:14,060 --> 00:34:18,380
+Ruben told us, the idea came from running another business and seeing slash hearing
+
+591
+00:34:18,380 --> 00:34:23,460
+about the dissatisfaction of customers with solutions in the e-signature space and trying
+
+592
+00:34:23,460 --> 00:34:27,620
+ourselves to give them good options for that part of their workflow.
+
+593
+00:34:27,620 --> 00:34:28,860
+So what makes this approach work?
+
+594
+00:34:28,860 --> 00:34:30,700
+The first is you're already in the market.
+
+595
+00:34:30,700 --> 00:34:32,900
+You're talking to customers and you're seeing real problems.
+
+596
+00:34:32,900 --> 00:34:36,700
+You have momentum, skills, and sometimes revenue to fund exploration.
+
+597
+00:34:36,700 --> 00:34:40,740
+The third is you might discover that a tool you built for yourself has broader demand.
+
+598
+00:34:40,740 --> 00:34:43,980
+And the fourth is the new opportunity often leverages what you've already learned.
+
+599
+00:34:43,980 --> 00:34:47,340
+Things to watch out for include chasing shiny objects.
+
+600
+00:34:47,340 --> 00:34:48,580
+It's a real risk.
+
+601
+00:34:48,580 --> 00:34:52,460
+Make sure the new idea is actually better and not just more exciting.
+
+602
+00:34:52,460 --> 00:34:56,260
+The second one is splitting focus between two products can kill both of them.
+
+603
+00:34:56,260 --> 00:34:59,620
+Third is you might be running from hard problems in your current product rather than toward
+
+604
+00:34:59,620 --> 00:35:01,340
+a real opportunity.
+
+605
+00:35:01,340 --> 00:35:05,620
+And the fourth is sunk cost in your current product can cloud your judgment.
+
+606
+00:35:05,620 --> 00:35:08,300
+So I have four questions I think you should ask yourself if you're going to take this
+
+607
+00:35:08,300 --> 00:35:09,300
+approach.
+
+608
+00:35:09,300 --> 00:35:13,780
+Number one, is this new product idea genuinely bigger and better?
+
+609
+00:35:13,780 --> 00:35:15,940
+Or am I just bored with what I'm working on?
+
+610
+00:35:15,940 --> 00:35:20,780
+Number two, can I validate this quickly without completely abandoning my current product?
+
+611
+00:35:20,780 --> 00:35:25,060
+Number three, do I have the resources to pursue both of these ideas or do I have to make a
+
+612
+00:35:25,060 --> 00:35:26,060
+really hard choice?
+
+613
+00:35:26,060 --> 00:35:31,340
+And number four, what would have to be true for this new idea to be worth the switch?
+
+614
+00:35:31,340 --> 00:35:35,740
+So as a recap, here are the eight methods that the successful founders we surveyed used
+
+615
+00:35:35,740 --> 00:35:38,620
+to fund their profitable SaaS ideas.
+
+616
+00:35:38,620 --> 00:35:41,980
+Let me leave you with one number, 72.
+
+617
+00:35:41,980 --> 00:35:47,460
+That's the percent of founders who found their idea through their work, be it day job frustrations,
+
+618
+00:35:47,460 --> 00:35:51,500
+expensive tools they knew they could build better or cheaper, patterns from agency clients,
+
+619
+00:35:51,500 --> 00:35:56,660
+or opportunities discovered while building something else, 72%.
+
+620
+00:35:56,660 --> 00:36:00,420
+That means your SaaS idea might be right under your nose, but you need to know what to look
+
+621
+00:36:00,420 --> 00:36:01,420
+for.
+
+622
+00:36:01,420 --> 00:36:04,660
+And that's why my team and I created the nine to five audit.
+
+623
+00:36:04,660 --> 00:36:05,780
+It's totally free.
+
+624
+00:36:05,780 --> 00:36:07,660
+It includes even more founder examples.
+
+625
+00:36:07,660 --> 00:36:09,180
+We couldn't fit in this video.
+
+626
+00:36:09,180 --> 00:36:13,180
+And it walks you through thought exercises to help you discover SaaS opportunities hiding
+
+627
+00:36:13,180 --> 00:36:14,300
+at your work day.
+
+628
+00:36:14,300 --> 00:36:17,340
+You can get your free copy at robwalling.com slash ideas.
+
+629
+00:36:17,340 --> 00:36:19,060
+I hope you find it helpful.
+
+630
+00:36:19,060 --> 00:36:22,180
+Once you've found your SaaS idea, the next step is validation.
+
+631
+00:36:22,180 --> 00:36:25,340
+And that's exactly what I cover in this next video.
+
+632
+00:36:25,340 --> 00:36:28,740
+If you found this video helpful, I'd appreciate it if you give it a like and subscribe to the
+
+633
+00:36:28,740 --> 00:36:29,740
+channel.
+
+634
+00:36:29,740 --> 00:36:32,460
+Thank you to all the survey participants for helping out with this project.
+
+635
+00:36:32,460 --> 00:36:34,060
+Thanks for watching and we'll see you next time.
+

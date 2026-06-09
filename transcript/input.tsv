@@ -1,0 +1,636 @@
+start	end	text
+0	5280	Choosing the right SaaS idea can be the difference between making $10,000, $100,000, or even
+5280	8320	a million dollars a month and making nothing at all.
+8320	11960	But I'm not here to give you another list of hypothetical SaaS ideas, because that's
+11960	13240	not what you need.
+13240	18200	What you really need is to know how successful founders actually found their idea and how
+18200	22240	you can steal their tactics to find your own idea today.
+22240	23240	So here's what I did.
+23240	28280	I surveyed over 200 SaaS founders, making at least $1,000 a month, some making well
+28280	34200	over $100,000 a month to uncover the exact methods they used to find their winning ideas.
+34200	36940	This is something no one else on YouTube is doing.
+36940	41680	People are talking out of their opinion and limited experience, but on this channel, I
+41680	45640	like to get some data and provide you with some insights that you can't get anywhere
+45640	46640	else.
+46640	50160	So in this video, I'm going to break down the top eight ways these founders discovered
+50160	54080	profitable SaaS opportunities, and I'll give you examples for each.
+54080	58840	I've seen these methods work in my own companies and across the hundreds of startups I'm invested
+58840	64040	in, as well as the thousands of SaaS companies that I've seen started in the broader tiny
+64040	67480	seed microconf and startups for the rest of us ecosystem.
+67480	70440	There's a lot to cover in this video, so let's dive in.
+70440	75680	Method number one was used by a shocking 48% of founders that we surveyed.
+75680	78120	And honestly, didn't surprise me at all.
+78120	83220	For years, I've said, don't tell me your idea, tell me what problem it solves.
+83220	87820	And for almost half of the successful founders we surveyed, that problem showed up right
+87820	90960	where they were already spending 40 hours a week.
+90960	94340	Method number one is finding a problem at your day job.
+94340	98220	So this is where you spot a problem while working your regular job, either as a developer
+98220	103720	frustrated by bad tools or as a subject matter expert who knows your industry's pain points.
+103720	108260	You already have context, you have credibility and access to potential customers.
+108260	113100	One example of this is Alex Yumashev, the founder of JITbit, which is a help desk ticketing
+113300	118260	Alex told us, while working my full-time job, I realized that many existing tech support
+118260	123460	and customer support apps were missing the boring features that real teams actually need.
+123460	129300	Things like SSO, active directory integration, user provisioning, on-prem, self-hosted deployment
+129300	131980	for Windows, and many other features.
+131980	134380	The sleek modern tools had none of that.
+134380	138540	And the ones that did have the boring features look like they were straight out of the 90s.
+138540	143660	Buttered UIs, endless check boxes, painfully complicated setup flows.
+143660	147500	And while the market was very saturated, I took that as a good sign.
+147500	149260	The market was there.
+149260	153880	Attacking a big competitor can be a benefit on one hand, stealing cool marketing ideas
+153880	156140	from the smaller companies on the other.
+156140	159800	Maybe you've spent years working in an industry and you're a subject matter expert.
+159800	164140	You know all the headaches inside and out, like Zach from Upstream Edge.
+164140	170300	Zach told us, I provide a desktop application for forecasting and valuing oil and gas wells
+170300	174180	that include sophisticated engineering and financial analysis tools.
+174180	179180	100 times faster speed and higher level features compared to alternatives are what differentiate
+179180	180180	my product.
+180180	184700	I worked in the oil and gas industry as a petroleum engineer for a decade, and my frustration
+184700	190260	with the current tools led me to learn how to build new tools to solve our daily problems.
+190260	194660	I had a burning desire to see better software, and I decided to make the product I thought
+194660	195900	the industry needed.
+195900	198860	Then there's Lee Dido, the founder of Didomite.
+198860	203220	Lee told us, it's the fastest way to get looping video on a public screen.
+203220	208460	I started working at a company called BrightSign in 2012, who's the market leader in digital
+208460	210380	signage media players.
+210380	214540	It's a very hardware-focused industry, and I repeatedly kept seeing the same problems
+214540	217900	over and over when it came to operational software.
+217900	221860	Because nobody was thinking about user experience, and I kept socking away my ideas until one
+221860	224900	day, 10 years later, I thought it was time to jump.
+224900	227260	Consider jobs you've had, even a long time ago.
+227260	231300	The problem I just mentioned was something Lee experienced a decade earlier.
+231300	236140	Think about those tedious, repetitive tasks that are currently being human-automated,
+236140	238300	and that could be turned into software.
+238300	242660	The next example is similar in that it's automating a task that this consultant did
+242660	243660	for their clients.
+243700	249140	Ahmed Babakir is the co-founder of Blue Gamma, which is interest rate forecasts for finance
+249140	250140	teams.
+250140	254260	Ahmed told us, my co-founder and I used to work at a consultancy where clients would
+254260	258540	ask us for interest rate data, sometimes multiple times a day.
+258540	263820	As a recent graduate, my job was to pull the data, format it, and send it over in a spreadsheet
+263820	264820	every time.
+264820	268900	After leaving the company and learning about startups a year later, we realized it was
+268900	272260	a repetitive problem that software could solve very easily.
+272260	276060	Or maybe at your day job, you see a colleague doing repetitive work that you know could
+276060	280380	be streamlined, like Steve from LUTI, formerly Metro Retro.
+280380	284980	LUTI is collaboration software focused on development teams, helping them with retrospectives,
+284980	287140	refinement, planning, and so on.
+287140	292020	Steve told us, I created an early prototype of a canvas-based retro tool as part of a
+292020	293940	hackathon at my last real job.
+293940	298380	The idea came from watching the PM write up the notes after every meeting by hand.
+298380	303020	So now let's take a step back and look at what makes this first method of finding a
+303020	304860	problem at your day job work.
+304860	308340	The first is, you already have deep context around the problem.
+308340	309340	You've lived it.
+309340	310500	You know the workarounds.
+310500	313600	You understand why existing solutions fall short.
+313600	317740	The second is you have built-in access to potential customers and beta testers.
+317740	321020	These are your colleagues, your industry contacts, and so on.
+321020	323940	The third is that you understand the buying process.
+323940	328900	You know who signs off on purchases, what budget cycles look like, what objections come
+328900	329900	up.
+329900	333980	And the fourth is that you can potentially validate the idea while still employed, reducing
+333980	334980	your risk.
+334980	337540	But there are three things to watch out for with this approach.
+337540	342100	The first is make sure the problem exists beyond your specific company.
+342100	345080	Your employer might just be uniquely dysfunctional.
+345080	348260	So validate your idea outside of your little bubble.
+348260	351580	The second is check your employment agreement for IP clauses.
+351580	355180	Some companies claim ownership of anything you build while you're employed.
+355180	360340	And the third is be careful not to use proprietary information or customer data from your employer
+360340	361660	to build your product.
+361660	365700	I also wouldn't use any of my employer's hardware like a laptop.
+365700	367980	I would have a personal laptop that I worked on.
+367980	371840	And as I mentioned, I would check that IP clause and be really clean about it.
+371840	377060	So with this method, I'd be asking myself three questions to try to get my juices flowing.
+377060	382600	The first is what tools do I use on a daily basis that frustrate me or my coworkers?
+382600	388560	The second is what manual process or processes exist today that I think should be automated
+388560	389640	by software?
+389640	395100	And the third is, are the incumbent tools in this industry actually old and clunky and
+395100	396220	not changing?
+396220	399220	Or are they actually pretty good and I just don't like them?
+399220	402300	So there were a lot of companies that used this first method.
+402300	404240	As I said, it was almost 50%.
+404240	406580	But I don't want to spend this whole video talking about it.
+406580	412360	So I put together a completely free resource over at robwalling.com slash ideas.
+412360	413780	I'll tell you more about that later.
+413780	417580	But one thing I want you to notice is that all of these folks were solving problems that
+417580	419740	people would be willing to pay for.
+419740	423860	In the next category, the founders knew that there would be a customer ready to pay because
+423860	427320	they copied an existing idea or an existing product.
+427320	430040	This was about 10% of our respondents.
+430040	434420	In some cases, founders saw how much their employer was spending on a solution and thought
+434420	436980	I could do that cheaper or I could do that better.
+436980	440440	Or you might notice a large space with a hated competitor.
+440440	445020	While I didn't participate in this particular survey, I did exactly this when I was building
+445020	446020	Drip.
+446020	449700	And we did it by accident, if I'm being honest, we had built a little email capture widget
+449700	454120	and the ability to send a sequences of emails to people that signed up.
+454120	456780	What we quickly realized is there was market pull.
+456780	461800	There were people talking about marketing automation and email automation features that
+461800	465580	didn't exist in the less expensive email service providers.
+465580	470600	And every tool that had these features was really expensive, had annual contracts, software
+470600	474820	wasn't great, and they required you to talk to a salesperson.
+474820	477280	So we started building some of those features.
+477280	482280	And while we didn't copy any existing products, we did enter an existing category.
+482280	487040	And there were already paradigms in place that we certainly slotted into, and it made
+487040	490140	selling and marketing our tool a lot easier.
+490140	495580	Because when people arrived at the homepage, drip.com, they could see, Oh, this is this
+495580	496740	type of tool.
+496740	497800	Why is it different?
+497800	498960	And that's all I had to communicate.
+498960	501800	I didn't have to communicate what we were doing and how novel we were.
+501800	506160	I just had to say, we are either an email service provider or at some point we were
+506160	510960	in email automation software and then we became lightweight marketing automation.
+510960	516700	And then I just had to tell you why are we better or different than all the other incumbents.
+516700	519860	And there were a lot of big clunky incumbents that people didn't like.
+519860	523780	And that in addition to the fact that we executed really well, was the reason that drip grew
+523780	528860	so quickly and resulted in a life-changing exit for me back in 2016.
+528860	533980	Another example of using this approach comes from Tim Leland, the founder of t.ly.
+533980	538940	t.ly is an all-in-one URL shortener and QR code platform.
+538940	542320	It's built for marketers, developers, creators, and teams.
+542320	546420	And Tim told us, I was working for a company on an online giving product, and we were
+546420	549360	tasked to build a text to give feature.
+549360	555320	To do this, we had to shorten the URLs since SMS messages are limited to 160 characters.
+555320	559660	We looked at Bitly and saw it was thousands of dollars to use a custom domain to create
+559660	560660	short links.
+560660	564940	So to save money, I built a simple in-house URL shortener over the weekend that we could
+564940	566140	host ourselves.
+566140	569980	This got me thinking other companies may want a more affordable option, but they don't want
+569980	571700	to build it in-house.
+571700	574620	Another example of a founder who used this approach is Lillia Tobin.
+574620	578900	She started Big Mailer, which is an email marketing platform with a focus on multi-brand
+578900	581500	management for agencies and franchises.
+581500	586220	Lillia told us, while working on our previous B2C startup, we had grown our email list to
+586220	588840	more than 300,000 subscribers.
+588840	592700	All the available email solutions seemed too expensive for a product update newsletter
+592700	597020	of our size, so we built an in-house solution powered by Amazon SES.
+597020	600300	Then we thought others might have a similar need and decided to make it into a standalone
+600300	601300	tool.
+601300	607500	The option might be to port an existing product to a new country, language, or geography.
+607500	611580	We had a couple respondents who copied an idea that seemed to be working in the U.S.,
+611580	615420	and they translated it to the needs of different geographies.
+615420	619960	One example is Checkout Joy, which provides custom checkout pages for e-learning businesses
+619960	623380	that connect local payment processors with LMS platforms.
+623380	625620	The founder, Mering DeWett, told us,
+625620	630540	My wife had a membership business and couldn't easily accept payments from their LMS platform.
+630540	634080	No stripe where we live and very limited PayPal usage.
+634080	637180	Locals don't want to pay in USD, but that was all the LMS offered.
+637180	641000	I was researching solutions and realized that there are potentially thousands of businesses
+641000	645500	with the same issue, so I built a quick MVP with our local payment processor and got them
+645500	646660	live within a week.
+646660	650740	We could see an immediate bump in conversions for them, and it made it easy to do business
+650740	653700	and quickly get funds into their local bank account.
+653700	658420	Another founder who took this approach is Simon Thompson, the founder of Hooroo.ai,
+658420	662860	which is an AI answering service to help local Australian business owners manage phone
+662860	665780	calls, especially during weekends and after hours.
+665780	668940	It has local Australian voices and sensibilities.
+668940	669940	Simon told us,
+669940	674140	I saw examples in the U.S., such as Rosy AI, doing the same thing, and figured there would
+674140	679740	be a need for the same type of service, but specifically with Australian accents and sensibilities.
+679740	682740	I also guessed that it wouldn't make sense for the major players in the U.S. to build
+682740	686820	Australian accents into their platform and go to market in Australia, at least not any
+686820	688300	time in the near future.
+688340	690300	So what makes this method work?
+690300	691500	Well, four things.
+691500	693940	The first is you have proof of demand.
+693940	696500	Someone else already validated that people will pay for it.
+696500	700780	The second is you can learn from the incumbent's mistakes by reading their negative reviews
+700780	701780	and support forms.
+701780	705700	You can see what they're doing right and see what they're doing wrong because they pioneered
+705700	706700	it.
+706700	711500	The third is you can differentiate on price, user experience, specific features, or a particular
+711500	712500	niche.
+712500	715460	And if the incumbent has been around for a long time, they've often raised prices and
+715460	718540	gone up market, and that can leave a lot of opportunity.
+718540	722820	The fourth is if the market is large enough, even a small slice can be a great business
+722820	724740	if you're a mostly bootstrap founder.
+724740	728260	But there are also four things to watch out for when using this approach.
+728260	732780	The first is copying a product in a small market means you're fighting for scraps.
+732780	735620	This approach works best when the market is big.
+735620	738860	The second is make sure you have a real differentiator.
+738860	740460	It's not just we're newer.
+740460	741460	That's not enough.
+741460	745420	But when we use the word copy, what we really mean is enter an existing category where
+745420	746860	there are already other players.
+746860	751220	I still think you need to get in and position yourself in a corner of the market that isn't
+751220	752660	being served very well.
+752660	757260	The third thing to watch out for is the incumbent has a head start on brand recognition, on
+757260	761860	SEO, integrations, customer trust, marketing, all kinds of things.
+761860	765340	And the fourth is be honest about why you think you can win.
+765340	768020	All just execute better is not a strategy.
+768020	771820	And just copying an existing player is very unlikely to work.
+771820	775380	So the questions to ask yourself are, number one, why are customers unhappy with the current
+775380	776380	options?
+776380	780420	Is it price, features, support, usability, or something else?
+780420	785500	Second, is my differentiation something customers actually care about, or is it just interesting
+785500	786500	to me?
+786500	791020	The third is, can I reach customers through a channel the incumbent isn't using well or
+791020	792740	where there's some type of opportunity?
+792740	796740	And the fourth is, is there a specific segment of the market that's underserved and would
+796740	799300	love a product built just for them?
+799300	802740	Method number three is discovering a problem through freelancing.
+802740	806940	About 10% of the founders we surveyed took this approach.
+806940	811980	Examples include Ben Walker, the founder of Drum, which is an ERP for small to medium consulting
+811980	812980	firms.
+812980	816940	Ben told us, I was consulting as a custom software developer and found that I was building
+816940	819780	very similar functionality over and over.
+819780	824100	I felt that if I could build a very basic version of what I was building my clients,
+824100	828940	build it as a standalone tool, I should be able to find some early customers and iterate.
+828940	833860	John Reynolds, the founder of Civic Review, which is permitting software for local government,
+833860	838100	told us, I was a freelance software developer and I was asked to build our product, permitting
+838100	839860	software, by municipalities.
+839860	845000	I was asked three times and on the third time I decided, okay, these guys can't find a SaaS
+845000	846340	solution that fits their needs.
+846340	851180	I'll just make my own and sell it so I don't have to keep rewriting the same software.
+851180	855580	There's also the chance that you discover a problem to solve that's not something you've
+855580	860300	been asked to build multiple times, but rather it's a tool that you need in order to be more
+860300	862500	efficient in writing your agency.
+862500	867300	Colin Bartlett, the co-founder of Status Gator, which is a status aggregator, told us, I was
+867300	871820	working on a bug ticket for a customer all day and then finally came across the status
+871820	877260	page for the Facebook ads API and it had a warning about there being intermittent failures.
+877260	878780	Turns out that was the bug.
+878780	883100	It annoyed me that I did not even know the status page existed, plus the app interfaced
+883100	885660	with like 10 other ads APIs.
+885660	889580	I thought it would be really nice to have all that on one screen and get an email when
+889580	890740	the status changed.
+890740	892980	So I built Status Gator for myself.
+892980	897220	Note that it's important if you're going to do this, that you think very carefully about
+897220	898920	the intellectual property.
+898920	904700	In a lot of consulting and employment agreements, you will sign away anything you build at the
+904700	909780	job and anything you build in your free time, even on your own computers at home.
+909780	915180	So you want to be very diligent about this and have all your I's dotted and T's crossed.
+915180	920380	Another example is Dump Truck Dispatcher, founded by Joe Walling, no relation.
+920380	925100	Dump Truck Dispatcher streamlines the operations and logistics for bulk hauling companies.
+925100	928460	And Joe told us, at the time I ran a custom software development company.
+928460	930420	I had a client who wanted this type of software.
+930420	934100	I kept the IP and return for charging them less for the software.
+934100	936800	So let's look at four reasons why this method works.
+936800	941540	The first is you see the same problems across multiple clients, which validates that demand
+941540	943240	exists beyond one company.
+943240	947220	The second is that clients are literally paying you to understand their problems.
+947220	950480	You're getting paid to do market research and customer development.
+950480	954920	The third is you build real expertise in the domain as you're getting paid.
+954920	959180	And the fourth is you can sometimes fund early product development through your agency or
+959180	960540	freelancing revenue.
+960540	964900	But four things to watch out for include agency work is demanding, finding time to
+964900	967460	build a product on the side is genuinely hard.
+967460	972620	Number two is make sure IP ownership is clear in your client's contracts before you productized
+972620	975480	anything like in the case of Dump Truck Dispatcher.
+975480	980880	The third is that the transition from freelancing, agency, custom work to actually thinking like
+980880	983360	a product owner is harder than it looks.
+983360	986260	You have to learn to say no to feature requests.
+986260	990360	And the fourth is don't build a product so tailored to one client that no one else wants
+990360	991360	it.
+991360	994620	So I have four questions to ask yourself if you're going to take this approach.
+994620	999880	The first is what functionality have I built three or more times for different clients?
+999880	1004500	What internal tools have I built to make my agency more effective or efficient that others
+1004500	1005500	might want?
+1005500	1009400	Do I have a clear path to transitioning from agency revenue to product revenue?
+1009400	1011620	Or will I be stuck doing both forever?
+1011620	1016460	And the last is are my clients in an industry I actually want to serve long-term?
+1016460	1020800	So real quick, if you found any of this helpful so far, can you please give this video a like
+1020800	1021960	and subscribe to the channel?
+1021960	1025440	My team and I are working really hard to bring you content like this.
+1025440	1030840	We put a ton of time and energy into making sure the content is super valuable for you.
+1030840	1034700	And when we see those metrics on YouTube, the likes and the subscribes, it helps us
+1034700	1036760	know that we're on the right track.
+1036760	1041400	So those first three methods all assume you have work experience to draw from.
+1041400	1045840	But what if you're early in your career or you want to look beyond your current industry?
+1045840	1050500	Method number four is solving a problem for a spouse, friend, or colleague.
+1050500	1055720	And about 8% of respondents said this is how they found their startup idea.
+1055720	1059680	In this case, you're going to want to go on the hunt and try to find problems.
+1059680	1061980	So you'll want to reach out to your network.
+1061980	1065620	Maybe you talk to your spouse or maybe you talk to your friends to see what problems
+1065620	1067740	they have in their day jobs.
+1067980	1073300	John's sister is the founder of Quill Therapy Solutions, which he describes as software
+1073300	1077860	that generates progress notes and other forms of documentation for mental health therapists
+1077860	1082660	in an ethical and privacy-focused way without recording therapy sessions.
+1082660	1084920	John told us how he came up with the idea.
+1084920	1086800	He said, my wife is a therapist.
+1086800	1089380	And she 100% thought of the idea.
+1089380	1093360	She saw me working on a different idea that relied on AI to rearrange information.
+1093360	1097080	And she basically said, hey, could you do that for progress notes instead?
+1097840	1103240	One way to approach this method is to have a chat with someone who has deep experience.
+1103240	1108440	Yoi Sigurdsson is the founder of Crankwheel, which is a screen-sharing, web conferencing,
+1108440	1110520	and video platform for sales.
+1110520	1115280	And Yoi told us, so my co-founder, Gilcy, had been working for years in various sales
+1115280	1120200	jobs, mostly sort of hybrid telephone and in-person sales, like insurance and banking,
+1120200	1121760	telecoms, that kind of stuff.
+1121760	1125220	And we started brainstorming about what's missing from that kind of space.
+1125220	1129060	We rediscovered a lot of sales enablement tools that already existed.
+1129060	1132660	And I'd been working on real-time communications in Google Chrome at Google.
+1132660	1136560	So I innocently asked him at some point what people use when they're on the phone with
+1136560	1139520	a prospect and they need to show them something.
+1139520	1144080	As it turned out, they didn't use anything because it's too complex for a lot of prospects.
+1144080	1148020	And you don't want to take a good sales call and ruin it with some tech issues.
+1148020	1150420	That's how the idea for Crankwheel was born.
+1150420	1153980	What makes this method work are the following four things.
+1153980	1158280	Number one, you have a direct line to someone experiencing the problem, instant access
+1158280	1160620	for interviews, feedback, and iteration.
+1160620	1165060	Number two, you can deeply understand the problem without having to cold call strangers
+1165060	1166860	at least initially.
+1166860	1169540	Number three, your relationship creates accountability.
+1169540	1172880	You're more likely to follow through when someone you care about is counting on you.
+1172880	1176820	And number four, they can introduce you to others in the field for validation and early
+1176820	1177820	sales.
+1177820	1179100	But there are things to watch out for.
+1179100	1183460	The first is your spouse or friend might have a unique problem that others in their field
+1183460	1184460	don't share.
+1184460	1186460	So you want to validate beyond them.
+1186460	1190060	The second one is they might be too nice to tell you your solution isn't good.
+1190060	1191540	So push for honest feedback.
+1191540	1195900	The third is mixing business and personal relationships can get complicated.
+1195900	1198020	So you're going to want to set expectations early.
+1198020	1200520	And finally, you still need to understand the market.
+1200520	1204300	Their expertise plus your building skills isn't enough on its own.
+1204300	1208400	If you're going to attempt this method, you're going to want to ask yourself four questions.
+1208400	1213880	The first is, what does my spouse, partner, or close friend complain about in their day
+1213880	1214880	job?
+1214880	1218720	The second is, do I think they can introduce me to other people who potentially work in
+1218720	1221120	the same field and have the same problem?
+1221120	1223280	It'd be nice to have five intros, for example.
+1223280	1228140	The third question is, am I building this to solve a real problem that I think can be
+1228140	1229520	a great business?
+1229520	1232920	Or am I doing it to solve the problem of a person that I care about?
+1232920	1237800	And the last one is, do I have the patience to learn an industry that I'm not already
+1237800	1239420	familiar with?
+1239420	1244160	Method number five for finding startup ideas is to find a problem online.
+1244160	1248780	And only 3% of respondents used this approach.
+1248780	1254120	So this is where instead of going to people you know, you are looking for ideas in forums,
+1254120	1258760	in online groups, whether it's Facebook or Reddit or private Slack groups you're in.
+1258760	1262920	Maybe you're lurking in support forums, looking for problems that aren't already solved.
+1262920	1267160	And this method often gets touted online, but it's really hard to do as evidenced by
+1267160	1271200	the fact that only 3% of folks who responded to the survey actually used it.
+1271200	1275320	It didn't show up much in our research, and only a handful of respondents had used this
+1275320	1276320	method.
+1276320	1279880	A couple examples are Tolu Akanola, who is the founder of StreamThing.
+1279880	1285000	StreamThing is a Shopify app to enable buyers to select a specific delivery date, for example,
+1285000	1286280	for gift purchases.
+1286280	1291120	Tolu told us, someone had recently asked me to help set up a Shopify store, and I noticed
+1291120	1294280	they had an open API, so I decided to build a Shopify app.
+1294280	1297760	I combed through the Shopify support forums to find issues that merchants were complaining
+1297760	1298760	about.
+1298760	1302520	Once I came up with a short list, I looked in their app store to find which apps addressed
+1302520	1303520	the issue.
+1303520	1308800	I prioritized issues that had apps with lots of reviews, but also a lot of negative reviews.
+1308800	1312080	This helped identify problems that were pervasive but not well addressed.
+1312080	1318400	Another example is Rami Kufash, the founder of HoverCode, which is a dynamic QR code generator.
+1318400	1323240	Dynamic meaning the scan destination can be edited after printing, and you get analytics.
+1323240	1328040	So Rami told us, it was a mixture of having somewhat of a hypothesis or interest in keyword
+1328040	1329040	research.
+1329040	1333480	I found QR codes interesting generally, and after chatting with a friend who works in
+1333480	1337240	marketing, I started to think that marketers were still in the early stages of making use
+1337240	1339600	of QR codes, and there was still opportunity.
+1339600	1344040	I did some keyword research with Ahrefs to see if there was demand for QR code tools
+1344040	1348160	and saw huge search volume, which was enough for me to get involved in the space.
+1348160	1349560	What makes this work?
+1349560	1352360	Well, there's a bunch of things, but let's cover four.
+1352360	1355400	One is you can discover problems in industries you've never worked in.
+1355400	1360080	Public forums give you unfiltered access to real frustrations and complaints.
+1360080	1364800	You can validate demand through search volume, number of complaints, or size of communities.
+1364800	1369240	And lastly, negative reviews of existing products are a goldmine for differentiation.
+1369240	1370680	But there are things you should watch out for.
+1370680	1374160	The first is people complain about a lot of things they wouldn't actually pay for.
+1374160	1376320	The signal to noise ratio can be low.
+1376320	1378360	You lack the context that insiders have.
+1378360	1380960	You might misunderstand the problem or the market dynamics.
+1380960	1384400	The third one is this method takes a lot of time and patience.
+1384400	1386600	Most people give up before finding anything good.
+1386600	1391160	And lastly, selling to people you've never met in an industry you don't understand is
+1391160	1392560	genuinely hard.
+1392560	1397120	Some questions to ask yourself are, am I finding the same complaint repeated by many people,
+1397120	1398840	or is this just a one-off gripe?
+1398840	1401760	Would people pay money to solve this, or do they want to vent?
+1401760	1405600	Can I actually reach these people to sell to them, or are they scattered and going to
+1405600	1407640	be hard or expensive to find?
+1407640	1412040	And am I willing to invest the time to deeply understand an unfamiliar industry before
+1412040	1413320	I start building?
+1413320	1417280	Among our respondents, there were a couple of people who had grown nice marketplace businesses.
+1417280	1421580	And if you're interested in building an add-on for an existing platform, my team has pulled
+1421580	1427280	together a list of over 75 marketplaces at microconf.com slash marketplaces.
+1427280	1431920	In addition, you can look at Reddit communities related to specific industries or professions.
+1431920	1436000	You can look at Facebook groups for niche professional communities, support forums for
+1436000	1440200	existing products where you want to look for repeated complaints, review sites like
+1440200	1446320	G2, Captera, or App Store reviews, and finally, keyword research tools like Ahrefs, SEMrush,
+1446320	1448560	or even Google's Keyword Planner.
+1448560	1453960	So I have one real-world example from someone who completed the survey, and in this example,
+1453960	1457080	they actually noticed something while they were out in the real world.
+1457080	1462240	So Steven Gladney is the founder of Order Nerd, and Order Nerd aggregates third-party
+1462240	1466920	online ordering apps like DoorDash, Uber Eats, Grubhub into a single platform to make
+1466920	1470320	it easier for restaurant owners and staff to manage.
+1470320	1475180	Steven told us, we already had our team, a sales guy and a developer, and we're actively
+1475180	1476560	hunting ideas.
+1476560	1480360	One day my co-founder was at a restaurant and saw a wall of tablets and began talking to
+1480360	1481360	the staff about it.
+1481360	1485360	The pain in their voice was palpable, I laughed because, man, when you hear a pain point like
+1485360	1487640	that, it's often a good sign.
+1487640	1492240	He texted me a photo and said, it might be the beer talking, but I think this is the
+1492240	1493960	problem we need to solve.
+1493960	1497860	Given that I had previously sold to restaurants for five years, and he had over a decade of
+1497860	1502160	experience working with third-party APIs, we knew we were the right people to tackle
+1502160	1503160	this problem.
+1503160	1506920	Obviously, this is a unique example that might be hard to replicate, but it's a good reminder
+1506920	1511760	that by remaining curious and observant, you might find an idea in a place you wouldn't
+1511760	1512760	expect.
+1512760	1518720	The number six is to scratch your own itch, and this one was made so popular in the early
+1518720	1526080	and mid-2000s by Basecamp, by DHH and Jason Fried, because they scratched their own itch
+1526080	1531240	and it worked for them, and so they would often talk that maybe that's the best way
+1531240	1532400	to start a startup.
+1532400	1537880	And while it's certainly not a bad way, only 16% of our respondents did this.
+1537880	1540620	This is where you build something to solve your own problem, and you discover that other
+1540620	1546440	people have the same issue, and you can find them, and they will pay for it.
+1546440	1549020	So there's a lot that has to come into play.
+1549020	1552580	So there's a lot of things that have to line up in order for this to work.
+1552580	1555060	You can't just say, I have a problem, therefore that's validation.
+1555060	1556060	It's not.
+1556060	1559320	You validated that you will have one customer paying you $0, which is yourself.
+1559320	1563460	So when I think about scratching my own itch, which is, I've done, I built, Drip was an
+1563460	1570260	originally software to scratch your own itch, and I took that idea and went and asked 17
+1570260	1573860	other founders that I knew if they had the problem, and when I got 10 or 11 yeses, then
+1573860	1574860	we started building.
+1574860	1577660	So if I was going to do scratch my own itch, I would want to validate there are other people
+1577660	1579860	out there with this issue.
+1579860	1585500	Examples of founders who scratched their own itch include Olga Huser, the founder of Dialogshift,
+1585500	1587780	which is an AI application for hotels.
+1587780	1590700	It's chatbot, phone AI, email AI.
+1590700	1595380	Olga told us, we came up with the idea as hotel guests ourselves, frustrated by how
+1595380	1599000	difficult it was to get simple information about what, where, and when things were happening
+1599000	1600320	during our stay.
+1600320	1604020	Our initial thought was how great would it be to just send a WhatsApp message and instantly
+1604020	1606160	get answers to all our questions about the hotel?
+1606160	1610080	For example, when is the next yoga class to what time is breakfast served?
+1610080	1612180	Can you send me the daily program?
+1612180	1616320	One more example is from Scott Brownlee, the founder of Simple Booklet.
+1616320	1622960	Simple Booklet is marketing, communication, and support collateral presentation that includes
+1622960	1625000	distribution and tracking across the web.
+1625000	1629160	Scott told us, I had sold an earlier business in the early 2000s, then went sailing with
+1629160	1631400	my wife for 11 years around the world.
+1631400	1635360	Getting access to information about places was difficult and usually was in the form
+1635360	1637720	of paper brochures, lookbooks, and guides.
+1637720	1642000	I really just wanted to scan a QR code or get it on my tablet or phone to access.
+1642000	1647640	And since every print brochure started as a PDF, how could we make that more accessible?
+1647640	1649800	What makes scratching your own itch work?
+1649800	1654360	Well, first of all, you understand the problem intimately because you've experienced it yourself.
+1654360	1657300	You're motivated to solve it because it genuinely bothers you.
+1657300	1660620	You can be your own first user, which speeds up iteration.
+1660620	1664360	And your passion for the problem often comes through in marketing and sales, but there's
+1664360	1665800	a few things you want to watch out for.
+1665800	1668640	The first is you might be a market of one.
+1668640	1670300	I referenced this earlier.
+1670300	1674180	Just because you have this problem doesn't mean enough other people do to make a business.
+1674180	1678340	The second is you might build what you want rather than what the market wants.
+1678340	1679760	So stay open to feedback.
+1679760	1684080	The third, your use case might be too niche or too specific to your situation.
+1684080	1688520	And the fourth is founders often underestimate how different their needs are from typical
+1688520	1689520	customers.
+1689520	1690920	So questions to ask yourself.
+1690920	1694240	Number one, how many other people have this exact problem?
+1694240	1696000	Can I find them and talk to them?
+1696000	1698920	Am I a representative user or am I an edge case?
+1698920	1702960	Would I pay more money to solve this problem or do I just find it mildly annoying?
+1702960	1707680	And lastly, can I separate my personal preferences from what the market actually needs?
+1707680	1711080	Since we did all this research, I'm actually going to take a lot of it and put it in a
+1711080	1716620	new book I'm working on, on finding, choosing, and validating your idea, finding product
+1716620	1720040	market fit, and launching a profitable SaaS business.
+1720040	1724840	If you want early access to chapter previews, launch updates, that kind of thing, hop on
+1724840	1728680	my email list, robwalling.com slash emails.
+1728680	1734680	Method number seven is taking advantage of an emerging or a fast growing technology.
+1734680	1740840	This is every developer's dream where AI becomes a thing or DHTML, remember Ajax and like
+1741080	1744440	2006 where suddenly you could do stuff in a browser you couldn't do before and you see
+1744440	1746640	it and you think, what can I build with this?
+1746640	1750720	And while it's every developer's dream to play with that new technology, it's very rare,
+1750720	1755440	at least according to our survey, that people actually turn these into businesses.
+1755440	1757560	Only 3% of respondents went this route.
+1757560	1762360	And when I say an emerging technology, this can be AI, it can be a brand new API.
+1762360	1768000	It can be a new platform like when I think Facebook opened up for development and, you
+1768000	1772020	know, Squarespace, HubSpot, like all these marketplaces, Shopify.
+1772020	1777280	When these open up, you can look for practical applications before the market gets crowded.
+1777280	1779340	Examples of this include Ram Shingala.
+1779340	1783800	He's the founder of WA Notifier, which is an all in one WhatsApp marketing tool for
+1783800	1784800	businesses.
+1784800	1789740	Ram told us, I used to run a WordPress agency and setting up email marketing forms was one
+1789740	1793120	of the recurring things we used to do for businesses in Western countries.
+1793120	1797800	With WhatsApp gaining momentum and WhatsApp marketing starting to pick up, I made an assumption
+1797800	1802320	that if email and email marketing is big, WhatsApp marketing can also become big.
+1802320	1807100	This was especially for businesses in countries where WhatsApp was popular and a primary channel
+1807100	1811680	for communication like India, GCC countries, South America, et cetera.
+1811680	1816300	And then right around 2000, when I was looking for SaaS ideas, WhatsApp opened up their gates
+1816300	1818480	for new API partners.
+1818480	1819840	So the timing is right.
+1819840	1821360	And that's how I got started.
+1821360	1825200	Another example is from Alex Charles, founder of GenText AI.
+1825200	1831520	GenText AI is applied AI add-ins for Microsoft Word, expanding to other AI applications.
+1831520	1837040	Alex said, I worked as a consultant, an economist, and used the Microsoft Office suite heavily.
+1837040	1841120	Soon as chat GPT came out, I realized it would be extremely useful if connected to Office
+1841120	1843280	and if it could reduce hallucinations.
+1843280	1844780	That's how the idea came about.
+1844780	1846960	Then there's Tiago, the founder of PodSqueeze.
+1846960	1850880	PodSqueeze is an application we actually use to help produce my podcast startup for the
+1850880	1851880	rest of us.
+1851880	1855840	All in one solution for the production and promotion of podcasts.
+1855840	1861880	So you upload audio or video and it generates social media posts, clips, summaries, transcripts,
+1861880	1862880	and more.
+1862880	1867520	Tiago said, I had my podcast, it got really frustrated with all the post-production work.
+1867520	1870700	In other words, creating the show notes, promotional content.
+1870700	1874760	So back then chat GPT had just been released and we thought that even if the AI transcripts
+1874760	1879960	made mistakes, GPT was smart enough to get that content and generate good text assets.
+1879960	1881120	That's how we started.
+1881120	1882120	So what makes this work?
+1882120	1886120	Well, first of all, early movers can establish themselves before the market gets crowded.
+1886120	1889900	New technology often creates new problems that need new solutions.
+1889900	1893800	The third is you can ride the wave of attention and interest in the technology itself.
+1893800	1897880	And lastly, customers are often more forgiving of rough edges when the technology is new,
+1897880	1899780	but there are some things to watch out for.
+1899780	1902120	First is timing can be extremely difficult.
+1902120	1906360	If you're too early, the technology isn't ready or the customers aren't educated.
+1906360	1909880	If you're too late, then you're one of dozens or hundreds of competitors.
+1910040	1913840	The second thing is the hype cycle can mislead you just because people are talking about
+1913840	1917080	a technology doesn't mean they'll pay for whatever you're building.
+1917080	1921600	The third is the technology might not mature the way you expect, leaving you with a product
+1921600	1923400	built on shaky foundations.
+1923400	1926600	And lastly, big players can also move fast in hotspaces.
+1926600	1929800	So you might get crushed by well-funded competitors.
+1929800	1934280	The questions to ask yourself are, is this technology actually ready for real world use
+1934280	1936600	cases or is it still experimental?
+1936600	1940000	Second one, are businesses already spending money in adjacent areas?
+1940000	1942200	Or is this entirely speculative?
+1942200	1945480	Do I have a unique angle or insight or am I just chasing hype?
+1945480	1949680	And lastly, can I build something useful quickly before the window closes?
+1949680	1956320	And my eighth and final method for finding SAS ideas is building on an existing product.
+1956320	1959520	Four percent of respondents told us this was their approach.
+1959520	1964760	So this is where you're working on one product and you discover a bigger or a better opportunity.
+1964760	1969280	Maybe an internal tool with outside demand or an adjacent problem that your customers
+1969280	1970400	keep mentioning.
+1970400	1973600	This obviously wasn't a huge group, it was four percent, but we did have a number of
+1973600	1977240	respondents who were working on a product at various levels of success.
+1977240	1979800	And then in doing so, discovered a bigger opportunity.
+1979800	1984440	It's worth noting these weren't necessarily pivots, but new products altogether.
+1984440	1989880	So Ivana is the founder of Authored Up, which is LinkedIn content creation and analysis
+1989880	1991740	integrated via Chrome extension.
+1991740	1995920	And Ivana told us, we were working on a startup for hiring managers and recruiters.
+1995920	2000340	We had a product developed, but we were working in a vacuum, not talking to potential customers,
+2000340	2001500	no mom test.
+2001500	2005180	After we almost finished the product, we wanted to get feedback and beta users.
+2005180	2008060	We tried networking, sending LinkedIn DMs and pitching.
+2008060	2012380	We realized we can try creating content on LinkedIn, but we couldn't find simple tools
+2012380	2013380	to help us out.
+2013380	2015220	And that's when we built this internal tool.
+2015220	2019340	Rafal, who's the founder of Supa Data, which is an API that lets developers and no code
+2019340	2024460	makers easily extract data from websites and platforms like YouTube, TikTok, Instagram,
+2024460	2025460	and X Twitter.
+2025460	2028900	Rafal told us, it's my own itch, which turned into a business.
+2028900	2033060	I needed to scrape YouTube transcripts to add a feature to my other product.
+2033060	2036760	Over time, I also use this scraper to build other small products.
+2036760	2040060	It became de facto and API servicing multiple apps.
+2040060	2043700	At some point I decided to make a small experiment and try to monetize it on rapid API.
+2043700	2045220	And from there it snowballed.
+2045220	2048140	And lastly, we have Ruben Gomez, the founder of Signwell.
+2048140	2052620	Signwell provides easy to use document signing with enterprise grade security and compliance
+2052620	2054060	at an affordable price.
+2054060	2058380	Ruben told us, the idea came from running another business and seeing slash hearing
+2058380	2063460	about the dissatisfaction of customers with solutions in the e-signature space and trying
+2063460	2067620	ourselves to give them good options for that part of their workflow.
+2067620	2068860	So what makes this approach work?
+2068860	2070700	The first is you're already in the market.
+2070700	2072900	You're talking to customers and you're seeing real problems.
+2072900	2076700	You have momentum, skills, and sometimes revenue to fund exploration.
+2076700	2080740	The third is you might discover that a tool you built for yourself has broader demand.
+2080740	2083980	And the fourth is the new opportunity often leverages what you've already learned.
+2083980	2087340	Things to watch out for include chasing shiny objects.
+2087340	2088580	It's a real risk.
+2088580	2092460	Make sure the new idea is actually better and not just more exciting.
+2092460	2096260	The second one is splitting focus between two products can kill both of them.
+2096260	2099620	Third is you might be running from hard problems in your current product rather than toward
+2099620	2101340	a real opportunity.
+2101340	2105620	And the fourth is sunk cost in your current product can cloud your judgment.
+2105620	2108300	So I have four questions I think you should ask yourself if you're going to take this
+2108300	2109300	approach.
+2109300	2113780	Number one, is this new product idea genuinely bigger and better?
+2113780	2115940	Or am I just bored with what I'm working on?
+2115940	2120780	Number two, can I validate this quickly without completely abandoning my current product?
+2120780	2125060	Number three, do I have the resources to pursue both of these ideas or do I have to make a
+2125060	2126060	really hard choice?
+2126060	2131340	And number four, what would have to be true for this new idea to be worth the switch?
+2131340	2135740	So as a recap, here are the eight methods that the successful founders we surveyed used
+2135740	2138620	to fund their profitable SaaS ideas.
+2138620	2141980	Let me leave you with one number, 72.
+2141980	2147460	That's the percent of founders who found their idea through their work, be it day job frustrations,
+2147460	2151500	expensive tools they knew they could build better or cheaper, patterns from agency clients,
+2151500	2156660	or opportunities discovered while building something else, 72%.
+2156660	2160420	That means your SaaS idea might be right under your nose, but you need to know what to look
+2160420	2161420	for.
+2161420	2164660	And that's why my team and I created the nine to five audit.
+2164660	2165780	It's totally free.
+2165780	2167660	It includes even more founder examples.
+2167660	2169180	We couldn't fit in this video.
+2169180	2173180	And it walks you through thought exercises to help you discover SaaS opportunities hiding
+2173180	2174300	at your work day.
+2174300	2177340	You can get your free copy at robwalling.com slash ideas.
+2177340	2179060	I hope you find it helpful.
+2179060	2182180	Once you've found your SaaS idea, the next step is validation.
+2182180	2185340	And that's exactly what I cover in this next video.
+2185340	2188740	If you found this video helpful, I'd appreciate it if you give it a like and subscribe to the
+2188740	2189740	channel.
+2189740	2192460	Thank you to all the survey participants for helping out with this project.
+2192460	2194060	Thanks for watching and we'll see you next time.
